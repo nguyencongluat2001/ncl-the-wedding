@@ -48,30 +48,115 @@
         <div class="section-title" style="padding-top: 40px;">
           <h2>Ảnh nổi bật</h2>
         </div>
+
+
+
         <div class="row">
           <div class="col-md-12 col-12 collection main-container">
             <div class="row" style="padding-right: 0px !important;padding-left: 0px !important;margin-top: 0px !important">
-            
-            @foreach ($datas as $key => $data)
+              <div class="col-lg-6 col-md-6 col-sm-6 col-6 product-hover" style="">
+                <div class="box" data-aos="zoom-in" data-aos-delay="100">
+                  <img src="{{url('/clients/assets/img/A1.jpg')}}" style="height: 280px !important;" class="img-thumbnail" alt="Product Image">
+                </div>
+              </div>
+              <div class="col-lg-6 col-md-6 col-sm-6 col-6 product-hover" style="">
+                <div class="box" data-aos="zoom-in" data-aos-delay="100">
+                  <img src="{{url('/clients/assets/img/A1.jpg')}}" style="height: 280px !important;" class="img-thumbnail" alt="Product Image">
+                </div>
+              </div>
+            </div>  
+          </div>
+        </div>
 
+
+        <div class="row">
+          <div class="col-md-12 col-12 collection main-container">
+            <div class="row" style="padding-right: 0px !important;padding-left: 0px !important;margin-top: 0px !important">
+              <div class="col-lg-4 col-md-6 col-sm-6 col-8 product-hover" style="">
+                <div class="box" data-aos="zoom-in" data-aos-delay="100">
+                  <img src="{{url('/clients/assets/img/A1.jpg')}}" class="img-thumbnail" alt="Product Image">
+                </div>
+              </div>
               <div class="col-lg-4 col-md-6 col-sm-6 col-4 product-hover" style="">
                 <div class="box" data-aos="zoom-in" data-aos-delay="100">
-                  <!-- <div class="pro-sale">
-                    <span style="font-size: 13px !important;color: white; font-weight: 600;font-family: 'Quicksand', sans-serif;">
-                    <i style="font-size: 12px;font-weight: 400;color: #ff7d7d;" class="fas fa-heart"></i>
-                    </span>
-                  </div> -->
+                  <img src="{{url('/clients/assets/img/A1.jpg')}}" class="img-thumbnail" alt="Product Image">
+                </div>
+              </div>
+            </div>  
+          </div>
+        </div>
+
+
+        <div class="row">
+          <div class="col-md-12 col-12 collection main-container">
+            <div class="row" style="padding-right: 0px !important;padding-left: 0px !important;margin-top: 0px !important">
+              <div class="col-lg-4 col-md-6 col-sm-6 col-4 product-hover" style="">
+                <div class="box" data-aos="zoom-in" data-aos-delay="100">
+                  <img src="{{url('/clients/assets/img/A1.jpg')}}" class="img-thumbnail" alt="Product Image">
+                </div>
+              </div>
+              <div class="col-lg-4 col-md-6 col-sm-6 col-4 product-hover" style="">
+                <div class="box" data-aos="zoom-in" data-aos-delay="100">
+                  <img src="{{url('/clients/assets/img/A1.jpg')}}" class="img-thumbnail" alt="Product Image">
+                </div>
+              </div>
+              <div class="col-lg-4 col-md-6 col-sm-6 col-4 product-hover" style="">
+                <div class="box" data-aos="zoom-in" data-aos-delay="100">
+                  <img src="{{url('/clients/assets/img/A1.jpg')}}" class="img-thumbnail" alt="Product Image">
+                </div>
+              </div>
+            </div>  
+          </div>
+        </div>
+
+        <div class="row">
+          <div class="col-md-12 col-12 collection main-container">
+            <div class="row" style="padding-right: 0px !important;padding-left: 0px !important;margin-top: 0px !important">
+              <div class="col-lg-4 col-md-6 col-sm-6 col-4 product-hover" style="">
+                <div class="box" data-aos="zoom-in" data-aos-delay="100">
+                  <img src="{{url('/clients/assets/img/A1.jpg')}}" class="img-thumbnail" alt="Product Image">
+                </div>
+              </div>
+              <div class="col-lg-4 col-md-6 col-sm-6 col-8 product-hover" style="">
+                <div class="box" data-aos="zoom-in" data-aos-delay="100">
+                  <img src="{{url('/clients/assets/img/A1.jpg')}}" class="img-thumbnail" alt="Product Image">
+                </div>
+              </div>
+            </div>  
+          </div>
+        </div>
+
+
+        <!-- <div class="row">
+          <div class="col-md-12 col-12 collection main-container">
+            <div class="row" style="padding-right: 0px !important;padding-left: 0px !important;margin-top: 0px !important">
+            @foreach ($datas as $key => $data)
+              <div class="col-lg-4 col-md-6 col-sm-6 col-4 product-hover" style="">
+                <div class="box" data-aos="zoom-in" data-aos-delay="100">
                   <img src="{{url('/file-image-client/product/')}}/{{ !empty($data['image'])?$data['image']:'' }}" class="img-thumbnail" alt="Product Image">
                 </div>
               </div>
-
             @endforeach
-             
+            </div>  
+          </div>
+        </div> -->
 
+
+
+        <!-- <div class="row">
+          <div class="collection main-container">
+            <div class="row" style="padding-right: 0px !important;padding-left: 0px !important;margin-top: 0px !important">
+              <div class="product-hover" style="">
+                <div class="box" data-aos="zoom-in" data-aos-delay="100">
+                  <img src="{{url('/clients/assets/img/A1.jpg')}}" style="height: 280px !important;" class="img-thumbnail" alt="Product Image">
+                </div>
+              </div>
             </div>  
           </div>
         
-        </div>
+        </div> -->
+
+
       </div>
     </section>
   @endsection
