@@ -1,50 +1,88 @@
   @extends('client.layouts.index')
   @section('body-client')
 
-
     <section id="hero" class="d-flex align-items-center">
-    
       <div class="container position-relative text-center text-lg-start" data-aos="zoom-in" data-aos-delay="100">
         <div class="row">
           <div class="col-lg-8">
-            <!-- <h1>SAVE THE DATE </h1><br> -->
             <div style="padding-top: 100px;">
                 <img src="{{url('/clients/assets/img/Wedding-Transparent.png')}}" style="background: no-repeat;object-fit: scale-down !important;" class="img-thumbnail" alt="Product Image">
             </div>
-            <div>
+            <!-- <div>
                <h2> <span style="font-family: 'Courier New', monospace;font-size: 23px;">Công Luật <i style="font-size: 12px;font-weight: 400;color: #ff7d7d;" class="fas fa-heart"></i> Kim Ngân</span></h2>
+            </div> -->
+            <div style="background: #0000004a;border-radius: 5px;">
+              <div style="padding:20px">
+                <center>
+                  <span>
+                  <img src="{{url('/clients/assets/img/text-luat-white.png')}}" style="background: no-repeat;object-fit: scale-down !important;width: 40%;height: 20% !important;" class="img-thumbnail" alt="Product Image">  <img src="{{url('/clients/assets/img/text-&.png')}}" style="background: no-repeat;object-fit: scale-down !important;width: 5%;height: 5% !important;" class="img-thumbnail" alt="Product Image"> <img src="{{url('/clients/assets/img/text-ngan-white.png')}}" style="background: no-repeat;object-fit: scale-down !important;width: 40%;height: 20% !important;" class="img-thumbnail" alt="Product Image">
+                  </span> <br>
+                  <span style="font-family: 'Courier New', monospace;color: #ff4b4b;font-size: 20px;">Lễ thành hôn</span> <br>
+                  <span style="font-family: &quot;times new roman&quot;, times, serif;color:#ffffff;font-weight: 600;">10 Giờ 30 Phút</span> <br>
+                  <span style="font-family: &quot;times new roman&quot;, times, serif;color:#ffffff;font-weight: 600;"><span style="color:#ffffff">CHỦ NHẬT</span> <span style="font-size:36px;color:#ffffff">|</span> <span style="font-size:36px;color:#ff1212a6">24</span> <span style="font-size:36px;color:#ffffff">|</span> <span style="color:#ffffff">11-2024</span></span> <br>
+                  <span style="font-family: &quot;times new roman&quot;, times, serif;color:#ffffff">( Tức ngày 24 tháng 11 năm Giáp Thìn )</span> <br>
+                </center>
+              </div>
+                
+              <!-- <span style="font-family: 'Courier New', monospace;color: #ff4b4b;font-size: 20px;">Lễ thành hôn</span> <br>
+              <span style="font-family: 'Courier New', monospace;color:#bebebe">10 Giờ 30 Phút ngày 24/11/2024</span> -->
             </div>
-            <div style="background: #0e0e0e57;border-radius: 5px;width: 400px;">
-              <span style="font-family: 'Courier New', monospace;color: #ff4b4b;font-size: 20px;">Lễ thành hôn</span> <br>
-              <span style="font-family: 'Courier New', monospace;color:#bebebe">10 Giờ 30 Phút ngày 24/11/2024</span>
-            </div>
-            <div style="">
+            <!-- <div style="">
                 <img src="{{url('/clients/assets/img/ring.jpg')}}" style="background: no-repeat;object-fit: scale-down !important;width: 20%;" class="img-thumbnail" alt="Product Image">
-            </div>
+            </div> -->
             <div class="btns">
               <!-- <a href="#menu" class="btn-menu animated fadeInUp scrollto">Gửi lời chúc</a> -->
               <!-- <a href="#book-a-table" class="btn-book animated fadeInUp scrollto">Xác nhận tham dự</a> -->
             </div>
           </div>
-          <!-- <div class="col-lg-4 d-flex align-items-center justify-content-center position-relative" data-aos="zoom-in" data-aos-delay="200">
-            <a href="https://www.youtube.com/watch?v=GlrxcuEDyF8" class="glightbox play-btn"></a>
-          </div> -->
-
         </div>
       </div>
-    </section><!-- End Hero -->
-      <main id="main">
-      
-  <!-- ======= Events Section ======= -->
-  <section id="events" class="events">
-      <div class="container" data-aos="fade-up">
+    </section>
 
+
+     <!-- ======= Events Section ======= -->
+     <section id="events" class="events_tab2">
+      <div class="container" data-aos="fade-up">
         <div class="section-title">
           <h2>Chuyện chúng mình</h2>
         </div>
-        <span style="color:#edf7ffb0">
+        <span style="color:#edf7ffb0;font-family: &quot;times new roman&quot;, times, serif;">
         “Trăm triệu hạt mưa rơi, không hạt nào rơi nhầm chỗ”, tất cả người ta từng gặp, không một người ngẫu nhiên.Người đến bởi nợ đẩy, nợ đi bởi duyên cạn, mọi thứ đều là duyên phận an bài, chúng ta trở thành vợ chồng chính là đủ Duyên".
         </span>
+        <div class="section-title" style="padding-top: 40px;">
+          <h2>Thiệp mời</h2>
+        </div>
+        <div class="row">
+          <div class="col-md-12 col-12 collection main-container">
+            <div class="row" style="padding-right: 20px !important;padding-left: 20px !important;margin-top: 0px !important">
+              <div class="product-hover" style="background: #ffffff;border-radius: 3px;padding:20px">
+                <center>
+                  <span>
+                  <img src="{{url('/clients/assets/img/text-savethedate.png')}}" style="background: no-repeat;object-fit: scale-down !important;width: 40%;height: 20% !important;" class="img-thumbnail" alt="Product Image">
+                  </span> <br>
+                  <span>
+                  <img src="{{url('/clients/assets/img/text-luat.png')}}" style="background: no-repeat;object-fit: scale-down !important;width: 40%;height: 20% !important;" class="img-thumbnail" alt="Product Image">  <img src="{{url('/clients/assets/img/text-&.png')}}" style="background: no-repeat;object-fit: scale-down !important;width: 5%;height: 5% !important;" class="img-thumbnail" alt="Product Image"> <img src="{{url('/clients/assets/img/text-ngan.png')}}" style="background: no-repeat;object-fit: scale-down !important;width: 40%;height: 20% !important;" class="img-thumbnail" alt="Product Image">
+                  </span> <br>
+                  <span>TRÂN TRỌNG KÍNH MỜI</span> <br>
+                  <span style="font-size: 13px;">Đến dự buổi tiệc chung vui cùng gia đình chúng tôi</span><br>
+                  <span style="font-family: &quot;times new roman&quot;, times, serif;color:#000000;font-weight: 600;">10 Giờ 30 Phút</span> <br>
+                  <span style="font-family: &quot;times new roman&quot;, times, serif;color:#000000;font-weight: 600;"><span style="color:#080f24">CHỦ NHẬT</span> <span style="font-size:36px;color:#080f24">|</span> <span style="font-size:36px;color:#ff1212a6">24</span> <span style="font-size:36px;color:#080f24">|</span> <span style="color:#080f24">11-2024</span></span> <br>
+                  <span style="font-family: &quot;times new roman&quot;, times, serif;color:#000000">( Tức ngày 24 tháng 11 năm Giáp Thìn )</span> <br>
+                  <span style="font-family: &quot;times new roman&quot;, times, serif;color: #cb0000;font-weight: 600;">Tại tư gia nhà trai</span> <br>
+                  <span style="font-family: &quot;times new roman&quot;, times, serif;color: #cb0000;font-weight: 600;">Làng Quyên, Xã Vũ Linh, Yên Bình, Yên Bái</span> <br>
+                </center>
+              </div>
+            </div>  
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <main id="main">
+    
+    <!-- ======= Events Section ======= -->
+    <section id="events" class="events">
+      <div class="container" data-aos="fade-up">
         <div class="section-title" style="padding-top: 40px;">
           <h2>Ảnh nổi bật</h2>
         </div>
