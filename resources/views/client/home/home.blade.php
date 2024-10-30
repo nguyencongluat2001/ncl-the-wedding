@@ -147,23 +147,6 @@
           </div>
         </div>
 
-        <div class="row">
-          <div class="col-md-12 col-12 collection main-container">
-            <div class="row" style="padding-right: 0px !important;padding-left: 0px !important;margin-top: 0px !important">
-              <div class="col-lg-4 col-md-6 col-sm-6 col-4 product-hover" style="">
-                <div class="box" data-aos="zoom-in" data-aos-delay="100">
-                  <img src="{{url('/clients/assets/img/A1.jpg')}}" class="img-thumbnail" alt="Product Image">
-                </div>
-              </div>
-              <div class="col-lg-4 col-md-6 col-sm-6 col-8 product-hover" style="">
-                <div class="box" data-aos="zoom-in" data-aos-delay="100">
-                  <img src="{{url('/clients/assets/img/A1.jpg')}}" class="img-thumbnail" alt="Product Image">
-                </div>
-              </div>
-            </div>  
-          </div>
-        </div>
-
 
         <!-- <div class="row">
           <div class="col-md-12 col-12 collection main-container">
