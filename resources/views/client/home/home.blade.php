@@ -114,11 +114,17 @@
     <section id="events" class="events">
       <div class="container" data-aos="fade-up">
         <div class="section-title" style="padding-top: 40px;">
-          <h2>Ảnh nổi bật</h2>
+          <h2>Gặp Gỡ</h2>
         </div>
-
-
-
+        <span style="color:#edf7ffb0;font-family: &quot;times new roman&quot;, times, serif;">
+        “Nếu anh chưa từng gặp em, anh sẽ không thích em
+          Nếu anh chưa từng thích em, anh sẽ không yêu em
+          Nếu anh chưa từng yêu em, anh sẽ không nhớ em.
+          Nhưng anh đã yêu, đang yêu và sẽ mãi mãi luôn yêu em".
+        </span>
+        <div class="section-title" style="padding-top: 40px;">
+          <h2>Album</h2>
+        </div>
         <div class="row">
           <div class="col-md-12 col-12 collection main-container">
             <div class="row" style="padding-right: 0px !important;padding-left: 0px !important;margin-top: 0px !important">
