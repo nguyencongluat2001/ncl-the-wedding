@@ -19,7 +19,7 @@
                   </span> <br>
                   <span style="font-family: 'Courier New', monospace;color: #ff4b4b;font-size: 20px;">Lễ thành hôn</span> <br>
                   <span style="font-family: &quot;times new roman&quot;, times, serif;color:#ffffff;font-weight: 600;">10 Giờ 30 Phút</span> <br>
-                  <span style="font-family: &quot;times new roman&quot;, times, serif;color:#ffffff;font-weight: 600;"><span style="color:#ffffff">CHỦ NHẬT</span> <span style="font-size:36px;color:#ffffff">|</span> <span style="font-size:36px;color:#ff1212a6">24</span> <span style="font-size:36px;color:#ffffff">|</span> <span style="color:#ffffff;padding-right: 25px;"> 11-2024 </span></span> <br>
+                  <span style="font-family: &quot;times new roman&quot;, times, serif;color:#ffffff;font-weight: 600;"><span style="color:#ffffff">CHỦ NHẬT</span> <span style="font-size:36px;color:#ffffff">|</span> <span style="font-size:36px;color:#ff7a7a">24</span> <span style="font-size:36px;color:#ffffff">|</span> <span style="color:#ffffff;padding-right: 25px;"> 11-2024 </span></span> <br>
                   <span style="font-family: &quot;times new roman&quot;, times, serif;color:#ffffff">( Tức ngày 24 tháng 11 năm Giáp Thìn )</span> <br>
                 </center>
               </div>
@@ -169,6 +169,23 @@
                   <img src="{{url('/clients/assets/img/A1.jpg')}}" class="img-thumbnail" alt="Product Image">
                 </div>
               </div>
+              <div class="col-lg-4 col-md-6 col-sm-6 col-8 product-hover" style="">
+                <div class="box" data-aos="zoom-in" data-aos-delay="100">
+                  <img src="{{url('/clients/assets/img/A1.jpg')}}" class="img-thumbnail" alt="Product Image">
+                </div>
+              </div>
+            </div>  
+          </div>
+        </div>
+
+        <!-- <div class="row">
+          <div class="col-md-12 col-12 collection main-container">
+            <div class="row" style="padding-right: 0px !important;padding-left: 0px !important;margin-top: 0px !important">
+              <div class="col-lg-4 col-md-6 col-sm-6 col-4 product-hover" style="">
+                <div class="box" data-aos="zoom-in" data-aos-delay="100">
+                  <img src="{{url('/clients/assets/img/A1.jpg')}}" class="img-thumbnail" alt="Product Image">
+                </div>
+              </div>
               <div class="col-lg-4 col-md-6 col-sm-6 col-4 product-hover" style="">
                 <div class="box" data-aos="zoom-in" data-aos-delay="100">
                   <img src="{{url('/clients/assets/img/A1.jpg')}}" class="img-thumbnail" alt="Product Image">
@@ -181,7 +198,7 @@
               </div>
             </div>  
           </div>
-        </div>
+        </div> -->
 
 
         <!-- <div class="row">
