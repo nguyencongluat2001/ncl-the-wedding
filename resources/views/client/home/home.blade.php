@@ -72,6 +72,23 @@
                   <span style="font-family: &quot;times new roman&quot;, times, serif;color:#000000">( Tức ngày 24 tháng 11 năm Giáp Thìn )</span> <br>
                   <span style="font-family: &quot;times new roman&quot;, times, serif;color: #cb0000;font-weight: 600;">Tại tư gia nhà trai</span> <br>
                   <span style="font-family: &quot;times new roman&quot;, times, serif;color: #cb0000;font-weight: 600;">Làng Quyên, Xã Vũ Linh, Yên Bình, Yên Bái</span> <br>
+                  <div class="row">
+                  <img src="{{url('/clients/assets/img/text-suhiendiencuaquykhachla.png')}}" style="background: no-repeat;object-fit: scale-down !important;height: 20% !important;" class="img-thumbnail" alt="Product Image">
+                  <div class="col-md-12 col-12 collection main-container">
+                    <div class="row" style="padding-right: 0px !important;padding-left: 0px !important;margin-top: 0px !important">
+                      <div class="col-lg-6 col-md-6 col-sm-6 col-6 product-hover" style="">
+                        <div class="box" data-aos="zoom-in" data-aos-delay="100">
+                          Nhà trai
+                        </div>
+                      </div>
+                      <div class="col-lg-6 col-md-6 col-sm-6 col-6 product-hover" style="">
+                        <div class="box" data-aos="zoom-in" data-aos-delay="100">
+                          Nhà gái
+                        </div>
+                      </div>
+                    </div>  
+                  </div>
+                </div>
                 </center>
               </div>
             </div>  
