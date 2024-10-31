@@ -61,10 +61,12 @@
                   <img src="{{url('/clients/assets/img/text-savethedate.png')}}" style="background: no-repeat;object-fit: scale-down !important;width: 40%;height: 20% !important;" class="img-thumbnail" alt="Product Image">
                   </span> <br>
                   <span>
-                  <img src="{{url('/clients/assets/img/text-luat.png')}}" style="background: no-repeat;object-fit: scale-down !important;width: 40%;height: 20% !important;" class="img-thumbnail" alt="Product Image">  <img src="{{url('/clients/assets/img/text-&.png')}}" style="background: no-repeat;object-fit: scale-down !important;width: 5%;height: 5% !important;" class="img-thumbnail" alt="Product Image"> <img src="{{url('/clients/assets/img/text-ngan.png')}}" style="background: no-repeat;object-fit: scale-down !important;width: 40%;height: 20% !important;" class="img-thumbnail" alt="Product Image">
+                  <img src="{{url('/clients/assets/img/text-congluat-kimngan.png')}}" style="background: no-repeat;object-fit: scale-down !important;height: 20% !important;" class="img-thumbnail" alt="Product Image">
+                  <!-- <img src="{{url('/clients/assets/img/text-luat.png')}}" style="background: no-repeat;object-fit: scale-down !important;width: 40%;height: 20% !important;" class="img-thumbnail" alt="Product Image">  <img src="{{url('/clients/assets/img/text-&.png')}}" style="background: no-repeat;object-fit: scale-down !important;width: 5%;height: 5% !important;" class="img-thumbnail" alt="Product Image"> <img src="{{url('/clients/assets/img/text-ngan.png')}}" style="background: no-repeat;object-fit: scale-down !important;width: 40%;height: 20% !important;" class="img-thumbnail" alt="Product Image"> -->
                   </span> <br>
                   <span>TRÂN TRỌNG KÍNH MỜI</span> <br>
                   <span style="font-size: 13px;">Đến dự buổi tiệc chung vui cùng gia đình chúng tôi</span><br>
+                  <!-- text-congluat-kimngan.png -->
                   <span style="font-family: &quot;times new roman&quot;, times, serif;color:#000000;font-weight: 600;">10 Giờ 30 Phút</span> <br>
                   <span style="font-family: &quot;times new roman&quot;, times, serif;color:#000000;font-weight: 600;"><span style="color:#080f24">CHỦ NHẬT</span> <span style="font-size:36px;color:#080f24">|</span> <span style="font-size:36px;color:#ff1212a6">24</span> <span style="font-size:36px;color:#080f24">|</span> <span style="color:#080f24;padding-right: 25px;">11-2024</span></span> <br>
                   <span style="font-family: &quot;times new roman&quot;, times, serif;color:#000000">( Tức ngày 24 tháng 11 năm Giáp Thìn )</span> <br>
