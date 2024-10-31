@@ -78,18 +78,20 @@
                       <div class="row" style="padding-right: 0px !important;padding-left: 0px !important;margin-top: 0px !important">
                         <div class="col-lg-6 col-md-6 col-sm-6 col-6 product-hover" style="padding-right: 0px !important;padding-left: 0px !important;margin-top: 0px !important">
                           <div class="box" data-aos="zoom-in" data-aos-delay="100">
-                            <span style="font-family: &quot;times new roman&quot;, times, serif;color:#000000">Nhà Trai</span> <br>
+                            <span style="font-family: &quot;times new roman&quot;, times, serif;color:#000000;font-size: 13px;">NHÀ TRAI</span> <br>
                             <span style="font-family: &quot;times new roman&quot;, times, serif;color:#000000">Ông: Nguyễn Văn Đạo</span> <br>
                             <span style="font-family: &quot;times new roman&quot;, times, serif;color:#000000">Bà: Vũ Thị Hoài</span> <br>
-                            <span style="font-family: &quot;times new roman&quot;, times, serif;color:#000000;font-size: 12px;">Làng Quyên,Xã Vũ Linh, Yên Bình, Yên Bái</span> <br>
+                            <span style="font-family: &quot;times new roman&quot;, times, serif;color:#000000;font-size: 12px;">Thôn Làng Quyên</span> <br>
+                            <span style="font-family: &quot;times new roman&quot;, times, serif;color:#000000;font-size: 12px;">Xã Vũ Linh, Yên Bình, Yên Bái</span> <br>
                           </div>
                         </div>
                         <div class="col-lg-6 col-md-6 col-sm-6 col-6 product-hover" style="">
                           <div class="box" data-aos="zoom-in" data-aos-delay="100">
-                            <span style="font-family: &quot;times new roman&quot;, times, serif;color:#000000">Nhà gái</span> <br>
+                            <span style="font-family: &quot;times new roman&quot;, times, serif;color:#000000;font-size: 13px;">NHÀ GÁI</span> <br>
                             <span style="font-family: &quot;times new roman&quot;, times, serif;color:#000000">Ông: Chu Văn Én</span> <br>
                             <span style="font-family: &quot;times new roman&quot;, times, serif;color:#000000">Bà: Trương Thị Tam</span> <br>
-                            <span style="font-family: &quot;times new roman&quot;, times, serif;color:#000000;font-size: 12px;">Km157+500, Khe Dẹt Tân Hợp, Văn Yên, Yên Bái</span> <br>
+                            <span style="font-family: &quot;times new roman&quot;, times, serif;color:#000000;font-size: 12px;">Km157+500, Khe Dẹt</span> <br>
+                            <span style="font-family: &quot;times new roman&quot;, times, serif;color:#000000;font-size: 12px;">Tân Hợp, Văn Yên, Yên Bái</span> <br>
                           </div>
                         </div>
                       </div>  
