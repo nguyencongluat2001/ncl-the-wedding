@@ -39,12 +39,26 @@ class HomeController extends Controller
      *
      * @return view
      */
-    public function index(Request $request)
+    public function nhatrai(Request $request)
     {
         $dataSearch = '';
+        $data['status'] = 1;
         // $objResult = $this->ProductService->where('status',1)->get()->take(8);
         // $datas['datas']= $objResult;
-        return view('client.home.home');
+        return view('client.home.home',$data);
+    }
+    /**
+     * khởi tạo dữ liệu, Load các file js, css của đối tượng
+     *
+     * @return view
+     */
+    public function nhagai(Request $request)
+    {
+        $dataSearch = '';
+        $data['status'] = 2;
+        // $objResult = $this->ProductService->where('status',1)->get()->take(8);
+        // $datas['datas']= $objResult;
+        return view('client.home.home',$data);
     }
     
     

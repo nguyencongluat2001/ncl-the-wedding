@@ -64,7 +64,9 @@ Route::prefix('register')->group(function () {
 });
 
 // Trang chủ
-Route::get('/', [ClientHomeController::class, 'index']);
+Route::get('/nha-trai', [ClientHomeController::class, 'nhatrai']);
+Route::get('/nha-gai', [ClientHomeController::class, 'nhagai']);
+
 // Route::get('/facilities/{code}', [FacilitiesController::class, 'detailIndex']);
 // Route::get('/schedule/{code}', [FacilitiesController::class, 'schedule']);
 // Route::get('/schedule/{code}/{idstaff}', [FacilitiesController::class, 'schedule']);
