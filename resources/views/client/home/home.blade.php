@@ -131,12 +131,30 @@
             <div class="row" style="padding-right: 0px !important;padding-left: 0px !important;margin-top: 0px !important">
               <div class="col-lg-6 col-md-6 col-sm-6 col-6 product-hover" style="">
                 <div class="box" data-aos="zoom-in" data-aos-delay="100">
-                  <img src="{{url('/clients/assets/img/A1.jpg')}}" style="height: 280px !important;" class="img-thumbnail" alt="Product Image">
+                  <img src="{{url('/clients/assets/img/A15.jpg')}}" style="height: 280px !important;" class="img-thumbnail" alt="Product Image">
                 </div>
               </div>
               <div class="col-lg-6 col-md-6 col-sm-6 col-6 product-hover" style="">
                 <div class="box" data-aos="zoom-in" data-aos-delay="100">
-                  <img src="{{url('/clients/assets/img/A1.jpg')}}" style="height: 280px !important;" class="img-thumbnail" alt="Product Image">
+                  <img src="{{url('/clients/assets/img/A6.jpg')}}" style="height: 280px !important;" class="img-thumbnail" alt="Product Image">
+                </div>
+              </div>
+            </div>  
+          </div>
+        </div>
+
+
+        <!-- <div class="row">
+          <div class="col-md-12 col-12 collection main-container">
+            <div class="row" style="padding-right: 0px !important;padding-left: 0px !important;margin-top: 0px !important">
+              <div class="col-8 product-hover" style="">
+                <div class="box" data-aos="zoom-in" data-aos-delay="100">
+                  <img src="{{url('/clients/assets/img/A8.jpg')}}" class="img-thumbnail" alt="Product Image">
+                </div>
+              </div>
+              <div class="col-4 product-hover" style="">
+                <div class="box" data-aos="zoom-in" data-aos-delay="100">
+                  <img src="{{url('/clients/assets/img/A11.jpg')}}" class="img-thumbnail" alt="Product Image">
                 </div>
               </div>
             </div>  
@@ -147,75 +165,72 @@
         <div class="row">
           <div class="col-md-12 col-12 collection main-container">
             <div class="row" style="padding-right: 0px !important;padding-left: 0px !important;margin-top: 0px !important">
-              <div class="col-lg-4 col-md-6 col-sm-6 col-8 product-hover" style="">
-                <div class="box" data-aos="zoom-in" data-aos-delay="100">
-                  <img src="{{url('/clients/assets/img/A1.jpg')}}" class="img-thumbnail" alt="Product Image">
-                </div>
-              </div>
               <div class="col-lg-4 col-md-6 col-sm-6 col-4 product-hover" style="">
                 <div class="box" data-aos="zoom-in" data-aos-delay="100">
-                  <img src="{{url('/clients/assets/img/A1.jpg')}}" class="img-thumbnail" alt="Product Image">
+                  <img src="{{url('/clients/assets/img/A14.jpg')}}" class="img-thumbnail" alt="Product Image">
+                </div>
+              </div>
+              <div class="col-lg-4 col-md-6 col-sm-6 col-8 product-hover" style="">
+                <div class="box" data-aos="zoom-in" data-aos-delay="100">
+                  <img src="{{url('/clients/assets/img/A5.jpg')}}" class="img-thumbnail" alt="Product Image">
                 </div>
               </div>
             </div>  
           </div>
-        </div>
-
-
+        </div> -->
         <div class="row">
           <div class="col-md-12 col-12 collection main-container">
             <div class="row" style="padding-right: 0px !important;padding-left: 0px !important;margin-top: 0px !important">
               <div class="col-lg-4 col-md-6 col-sm-6 col-4 product-hover" style="">
                 <div class="box" data-aos="zoom-in" data-aos-delay="100">
-                  <img src="{{url('/clients/assets/img/A1.jpg')}}" class="img-thumbnail" alt="Product Image">
+                  <img src="{{url('/clients/assets/img/A15.jpg')}}" class="img-thumbnail" alt="Product Image">
                 </div>
               </div>
-              <div class="col-lg-4 col-md-6 col-sm-6 col-8 product-hover" style="">
+              <div class="col-lg-4 col-md-6 col-sm-6 col-4 product-hover" style="">
                 <div class="box" data-aos="zoom-in" data-aos-delay="100">
-                  <img src="{{url('/clients/assets/img/A1.jpg')}}" class="img-thumbnail" alt="Product Image">
+                  <img src="{{url('/clients/assets/img/A6.jpg')}}" class="img-thumbnail" alt="Product Image">
+                </div>
+              </div>
+              <div class="col-lg-4 col-md-6 col-sm-6 col-4 product-hover" style="">
+                <div class="box" data-aos="zoom-in" data-aos-delay="100">
+                  <img src="{{url('/clients/assets/img/A14.jpg')}}" class="img-thumbnail" alt="Product Image">
                 </div>
               </div>
             </div>  
           </div>
         </div>
-
-        <!-- <div class="row">
+        <div class="row">
+          <div class="col-md-12 col-12 collection main-container">
+            <div class="row" style="padding-right: 0px !important;padding-left: 0px !important;margin-top: 0px !important">
+              <div class="col-12 product-hover" style="">
+                <div class="box" data-aos="zoom-in" data-aos-delay="100">
+                  <img src="{{url('/clients/assets/img/A5.jpg')}}" class="img-thumbnail" alt="Product Image">
+                </div>
+              </div>
+            </div>  
+          </div>
+        </div>
+        <div class="row">
           <div class="col-md-12 col-12 collection main-container">
             <div class="row" style="padding-right: 0px !important;padding-left: 0px !important;margin-top: 0px !important">
               <div class="col-lg-4 col-md-6 col-sm-6 col-4 product-hover" style="">
                 <div class="box" data-aos="zoom-in" data-aos-delay="100">
-                  <img src="{{url('/clients/assets/img/A1.jpg')}}" class="img-thumbnail" alt="Product Image">
+                  <img src="{{url('/clients/assets/img/A10.jpg')}}" class="img-thumbnail" alt="Product Image">
                 </div>
               </div>
               <div class="col-lg-4 col-md-6 col-sm-6 col-4 product-hover" style="">
                 <div class="box" data-aos="zoom-in" data-aos-delay="100">
-                  <img src="{{url('/clients/assets/img/A1.jpg')}}" class="img-thumbnail" alt="Product Image">
+                  <img src="{{url('/clients/assets/img/A12.jpg')}}" class="img-thumbnail" alt="Product Image">
                 </div>
               </div>
               <div class="col-lg-4 col-md-6 col-sm-6 col-4 product-hover" style="">
                 <div class="box" data-aos="zoom-in" data-aos-delay="100">
-                  <img src="{{url('/clients/assets/img/A1.jpg')}}" class="img-thumbnail" alt="Product Image">
+                  <img src="{{url('/clients/assets/img/A13.jpg')}}" class="img-thumbnail" alt="Product Image">
                 </div>
               </div>
             </div>  
           </div>
-        </div> -->
-
-
-        <!-- <div class="row">
-          <div class="collection main-container">
-            <div class="row" style="padding-right: 0px !important;padding-left: 0px !important;margin-top: 0px !important">
-              <div class="product-hover" style="">
-                <div class="box" data-aos="zoom-in" data-aos-delay="100">
-                  <img src="{{url('/clients/assets/img/A1.jpg')}}" style="height: 280px !important;" class="img-thumbnail" alt="Product Image">
-                </div>
-              </div>
-            </div>  
-          </div>
-        
-        </div> -->
-
-
+        </div>
       </div>
     </section>
   @endsection
