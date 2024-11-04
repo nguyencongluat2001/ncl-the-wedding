@@ -3,8 +3,9 @@
 
     <section id="hero" class="d-flex align-items-center">
       <div class="container position-relative text-center text-lg-start" data-aos="zoom-in" data-aos-delay="100">
+      <!-- class="col-lg-8" -->
         <div class="row">
-          <div class="col-lg-8">
+          <div >
             <div style="padding-top: 100px;">
                 <img src="{{url('/clients/assets/img/Wedding-Transparent.png')}}" style="background: no-repeat;object-fit: scale-down !important;" class="img-thumbnail" alt="Product Image">
             </div>
