@@ -78,8 +78,8 @@
       <div class="footer-expand-collapsed ">
         <div class="footer-copyright text-center">
           <div class="container">
-            <p>Copyright © 2024  </p>
-            <span style="font-family: 'Courier New', monospace;color:black">Nhà phát triển: Mr.Nguyễn Công Luật</span> <br>
+            <!-- <p>Copyright © 2024  </p> -->
+            <span style="font-family: 'Courier New', monospace;color:black"> Mr.Nguyễn Công Luật</span> <br>
               <span style="font-family: 'Courier New', monospace;color:black">Contact: 0386358006</span>
           </div>
         </div>

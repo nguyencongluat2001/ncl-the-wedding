@@ -287,7 +287,7 @@
       <div class="container" data-aos="fade-up">
 
         <div class="section-title pt-3">
-          <h2>Địa chỉ trên bản đồ</h2>
+          <h2 style="color:#2b365d">Địa chỉ trên bản đồ</h2>
         </div>
       </div>
       @if($status == 1)
@@ -306,7 +306,8 @@
       @endif
       @if($status == 2)
       <div data-aos="fade-up">
-      <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d4154.746277619558!2d104.61345329885!3d21.916925584637184!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x313335021597bbb7%3A0x27682fc8cc10380d!2zxJBUMTY2LCBUw6JuIEjhu6NwLCBWxINuIFnDqm4sIFnDqm4gQsOhaSwgVmnhu4d0IE5hbQ!5e0!3m2!1svi!2sus!4v1730742691134!5m2!1svi!2sus" width="500" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>              <div class="info">
+      <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d4154.746277619558!2d104.61345329885!3d21.916925584637184!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x313335021597bbb7%3A0x27682fc8cc10380d!2zxJBUMTY2LCBUw6JuIEjhu6NwLCBWxINuIFnDqm4sIFnDqm4gQsOhaSwgVmnhu4d0IE5hbQ!5e0!3m2!1svi!2sus!4v1730742691134!5m2!1svi!2sus" width="500" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>         
+        <div class="info">
                 <div class="address" style="padding:10px">
                   <i class="bi bi-geo-alt"></i>
                   <h4>Địa chỉ nhà gái:</h4>
