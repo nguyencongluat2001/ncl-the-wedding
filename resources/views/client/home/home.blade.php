@@ -243,10 +243,7 @@
       </div>
 
       <div data-aos="fade-up">
-      <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d47046.78714438705!2d105.0000847591438!3d21.791774334645826!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3133563cfae0a2a7%3A0x836de7d6b224b7e4!2zVsWpIExpbmgsIFnDqm4gQsOsbmgsIFnDqm4gQsOhaSwgVmnhu4d0IE5hbQ!5e0!3m2!1svi!2sus!4v1730740193505!5m2!1svi!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-        <div class="row mt-5">
-
-          <div class="col-lg-4">
+      <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d52815.3792572998!2d105.0030624675622!3d21.772395722071646!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3133563cfd27ae6d%3A0x58bedd76cf5cdd72!2zVsWpIExpbmgsIFnDqm4gQsOsbmgsIFnDqm4gQsOhaSwgVmnhu4d0IE5hbQ!5e0!3m2!1svi!2sus!4v1730741107823!5m2!1svi!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>          <div class="col-lg-4">
             <div class="info">
               <div class="address" style="padding:10px">
                 <i class="bi bi-geo-alt"></i>
