@@ -1,5 +1,10 @@
   @extends('client.layouts.index')
   @section('body-client')
+  <audio controls src= 
+
+"https://itviec.com/blog/wp-content/uploads/2024/06/itviec-ithero-song.wav" type="audio/wav"> 
+
+</audio>
     <section id="hero" class="d-flex align-items-center">
       <div class="container position-relative text-center text-lg-start" data-aos="zoom-in" data-aos-delay="100">
       <!-- class="col-lg-8" -->
@@ -189,6 +194,17 @@
         <div class="row">
           <div class="col-md-12 col-12 collection main-container">
             <div class="row" style="padding-right: 0px !important;padding-left: 0px !important;margin-top: 0px !important">
+              <div class="col-12 product-hover" style="">
+                <div class="box" data-aos="zoom-in" data-aos-delay="100">
+                  <img src="{{url('/clients/assets/img/A16.jpg')}}" style="" class="img-thumbnail" alt="Product Image">
+                </div>
+              </div>
+            </div>  
+          </div>
+        </div>
+        <!-- <div class="row">
+          <div class="col-md-12 col-12 collection main-container">
+            <div class="row" style="padding-right: 0px !important;padding-left: 0px !important;margin-top: 0px !important">
               <div class="col-lg-6 col-md-6 col-sm-6 col-6 product-hover" style="">
                 <div class="box" data-aos="zoom-in" data-aos-delay="100">
                   <img src="{{url('/clients/assets/img/A15.jpg')}}" style="height: 280px !important;" class="img-thumbnail" alt="Product Image">
@@ -201,44 +217,11 @@
               </div>
             </div>  
           </div>
-        </div>
-
-
-        <!-- <div class="row">
-          <div class="col-md-12 col-12 collection main-container">
-            <div class="row" style="padding-right: 0px !important;padding-left: 0px !important;margin-top: 0px !important">
-              <div class="col-8 product-hover" style="">
-                <div class="box" data-aos="zoom-in" data-aos-delay="100">
-                  <img src="{{url('/clients/assets/img/A8.jpg')}}" class="img-thumbnail" alt="Product Image">
-                </div>
-              </div>
-              <div class="col-4 product-hover" style="">
-                <div class="box" data-aos="zoom-in" data-aos-delay="100">
-                  <img src="{{url('/clients/assets/img/A11.jpg')}}" class="img-thumbnail" alt="Product Image">
-                </div>
-              </div>
-            </div>  
-          </div>
-        </div>
-
-
-        <div class="row">
-          <div class="col-md-12 col-12 collection main-container">
-            <div class="row" style="padding-right: 0px !important;padding-left: 0px !important;margin-top: 0px !important">
-              <div class="col-lg-4 col-md-6 col-sm-6 col-4 product-hover" style="">
-                <div class="box" data-aos="zoom-in" data-aos-delay="100">
-                  <img src="{{url('/clients/assets/img/A14.jpg')}}" class="img-thumbnail" alt="Product Image">
-                </div>
-              </div>
-              <div class="col-lg-4 col-md-6 col-sm-6 col-8 product-hover" style="">
-                <div class="box" data-aos="zoom-in" data-aos-delay="100">
-                  <img src="{{url('/clients/assets/img/A5.jpg')}}" class="img-thumbnail" alt="Product Image">
-                </div>
-              </div>
-            </div>  
-          </div>
         </div> -->
-        <div class="row">
+
+
+       
+        <!-- <div class="row">
           <div class="col-md-12 col-12 collection main-container">
             <div class="row" style="padding-right: 0px !important;padding-left: 0px !important;margin-top: 0px !important">
               <div class="col-lg-4 col-md-6 col-sm-6 col-4 product-hover" style="">
@@ -290,7 +273,7 @@
               </div>
             </div>  
           </div>
-        </div>
+        </div> -->
       </div>
     </section>
       <!-- ======= Contact Section ======= -->
