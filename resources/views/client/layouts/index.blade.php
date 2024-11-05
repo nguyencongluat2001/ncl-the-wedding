@@ -11,6 +11,13 @@
   <meta property="og:description" content="Tiệc cưới Công Luật & Kim Ngân" />
   <meta property="og:image" content="../clients/assets/img/A2.jpg" />
   <meta property="og:type" content="website" /> -->
+    <meta name="viewport" content="width=device-width, initial-scale=1"> 
+    <title>Công Luật &amp; Kim Ngân Wedding</title>
+    <meta name="description" content="Công Luật &amp; Kim Ngân - Our wedding date: 2024-11-24 ">
+    <meta name="keywords" content="Wedding, Wedding website, Website đám cưới, Tạo website đám cưới miễn phí">
+    <meta name="format-detection" content="telephone=no">
+    <meta name="application-name" content="iWedding">
+    <meta name="author" content="Biihappy.com">
     <meta property="og:site_name" content="Công Luật &amp; Kim Ngân">
     <meta property="og:type" content="website">
     <meta property="og:title" content="Công Luật &amp; Kim Ngân Wedding">
