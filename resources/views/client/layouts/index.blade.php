@@ -6,7 +6,7 @@
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
   <title>Tiệc cưới Công Luật & Kim Ngân</title>
-  <meta property="og:image" content="http://weddingmarry.online:83/clients/assets/img/A2.jpg">
+  <meta property="og:image" content="http://weddingmarry.online:83/clients/assets/img/logo-wedding.png">
   <meta content="" name="description">
   <meta content="" name="keywords">
   <script src="https://kit.fontawesome.com/42d5adcbca.js" crossorigin="anonymous"></script>
