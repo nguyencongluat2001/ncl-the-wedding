@@ -4,13 +4,14 @@
 <head>
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
-  <meta property="og:image:alt" content="Tiệc cưới Công Luật & Kim Ngân">
-  <title></title>
-  <meta property="og:image" content="../clients/assets/img/A2.jpg">
-  <meta content="" name="description">
+  <title>Tiệc cưới Công Luật & Kim Ngân</title>
   <meta property="og:image:height" content="400">
   <meta property="og:image:width" content="640">
-  <meta content="" name="keywords">
+  <meta property="og:title" content="Tiệc cưới Công Luật & Kim Ngân" />
+  <meta property="og:description" content="Tiệc cưới Công Luật & Kim Ngân" />
+  <meta property="og:image" content="../clients/assets/img/A2.jpg" />
+  <!-- <meta property="og:url" content="https://example.com" /> -->
+  <meta property="og:type" content="website" />
   <script src="https://kit.fontawesome.com/42d5adcbca.js" crossorigin="anonymous"></script>
   <!-- Favicons -->
   <link href="../clients/assets/img/A2.jpg" rel="icon">
