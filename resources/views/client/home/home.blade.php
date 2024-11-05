@@ -4,14 +4,17 @@
       <div class="container position-relative text-center text-lg-start" data-aos="zoom-in" data-aos-delay="100">
       <!-- class="col-lg-8" -->
         <div class="row">
-          <div style="height:700px;padding-top: 300px;">
+          <div style="height:700px;padding-top: 250px;">
             <!-- <div style="padding-top: 100px;">
                 <img src="{{url('/clients/assets/img/Wedding-Transparent.png')}}" style="background: no-repeat;object-fit: scale-down !important;" class="img-thumbnail" alt="Product Image">
             </div> -->
             <!-- <div>
                <h2> <span style="font-family: 'Courier New', monospace;font-size: 23px;">Công Luật <i style="font-size: 12px;font-weight: 400;color: #ff7d7d;" class="fas fa-heart"></i> Kim Ngân</span></h2>
             </div> -->
-            <div style="background: #0000004a;border-radius: 5px;">
+            <div style="border-radius: 5px;">
+            <div class="pt-5">
+                <img src="{{url('/clients/assets/img/ring.jpg')}}" style="background: no-repeat;object-fit: scale-down !important;width: 20%;" class="img-thumbnail" alt="Product Image">
+            </div>
               <div style="padding:20px">
               @if($status == 1)
                 <center>
@@ -37,9 +40,7 @@
               @endif
               </div>
             </div>
-            <!-- <div style="">
-                <img src="{{url('/clients/assets/img/ring.jpg')}}" style="background: no-repeat;object-fit: scale-down !important;width: 20%;" class="img-thumbnail" alt="Product Image">
-            </div> -->
+            
             <div class="btns">
               <!-- <a href="#menu" class="btn-menu animated fadeInUp scrollto">Gửi lời chúc</a> -->
               <!-- <a href="#book-a-table" class="btn-book animated fadeInUp scrollto">Xác nhận tham dự</a> -->
