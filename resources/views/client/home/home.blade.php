@@ -1,5 +1,7 @@
   @extends('client.layouts.index')
   @section('body-client')
+  <title>Tiệc cưới Công Luật & Kim Ngân</title>
+  <meta property="og:image" content="../clients/assets/img/A2.jpg">
 
     <section id="hero" class="d-flex align-items-center">
       <div class="container position-relative text-center text-lg-start" data-aos="zoom-in" data-aos-delay="100">
