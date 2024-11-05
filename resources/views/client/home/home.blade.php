@@ -1,11 +1,6 @@
   @extends('client.layouts.index')
   @section('body-client')
-  <!-- <audio controls src= 
-
-"https://itviec.com/blog/wp-content/uploads/2024/06/itviec-ithero-song.wav" type="audio/wav"> 
-
-</audio> -->
-    <section id="hero" class="d-flex align-items-center">
+<section id="hero" class="d-flex align-items-center">
       <div class="container position-relative text-center text-lg-start" data-aos="zoom-in" data-aos-delay="100">
       <!-- class="col-lg-8" -->
         <div class="row">

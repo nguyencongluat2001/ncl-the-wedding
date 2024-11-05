@@ -47,6 +47,8 @@
 </head>
 
 <body>
+<audio id="videos" src="../clients/assets/img/video.mp4" controls autoplay>
+</audio>
 
   <!-- <div id="topbar" class="d-flex align-items-center fixed-top">
     <div class="container d-flex justify-content-center justify-content-md-between">
@@ -111,7 +113,16 @@
 
   <!-- Template Main JS File -->
   <script src="../clients/assets/js/main.js"></script>
+  <script>
+        // Hàm phát audio
+        function playAudio() {
+            document.getElementById("videos").play();
+            document.removeEventListener("click", playAudio);  // Chỉ phát một lần
+        }
 
+        // Lắng nghe sự kiện click hoặc touch để phát âm thanh
+        document.addEventListener("click", playAudio);
+    </script>
 </body>
 
 </html>
