@@ -1,18 +1,18 @@
   @extends('client.layouts.index')
   @section('body-client')
-  <audio controls src= 
+  <!-- <audio controls src= 
 
 "https://itviec.com/blog/wp-content/uploads/2024/06/itviec-ithero-song.wav" type="audio/wav"> 
 
-</audio>
+</audio> -->
     <section id="hero" class="d-flex align-items-center">
       <div class="container position-relative text-center text-lg-start" data-aos="zoom-in" data-aos-delay="100">
       <!-- class="col-lg-8" -->
         <div class="row">
-          <div >
-            <div style="padding-top: 100px;">
+          <div style="height:700px;padding-top: 300px;">
+            <!-- <div style="padding-top: 100px;">
                 <img src="{{url('/clients/assets/img/Wedding-Transparent.png')}}" style="background: no-repeat;object-fit: scale-down !important;" class="img-thumbnail" alt="Product Image">
-            </div>
+            </div> -->
             <!-- <div>
                <h2> <span style="font-family: 'Courier New', monospace;font-size: 23px;">Công Luật <i style="font-size: 12px;font-weight: 400;color: #ff7d7d;" class="fas fa-heart"></i> Kim Ngân</span></h2>
             </div> -->
@@ -41,9 +41,6 @@
                 </center>
               @endif
               </div>
-                
-              <!-- <span style="font-family: 'Courier New', monospace;color: #ff4b4b;font-size: 20px;">Lễ thành hôn</span> <br>
-              <span style="font-family: 'Courier New', monospace;color:#bebebe">10 Giờ 30 Phút ngày 24/11/2024</span> -->
             </div>
             <!-- <div style="">
                 <img src="{{url('/clients/assets/img/ring.jpg')}}" style="background: no-repeat;object-fit: scale-down !important;width: 20%;" class="img-thumbnail" alt="Product Image">
