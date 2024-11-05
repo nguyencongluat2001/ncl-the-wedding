@@ -4,14 +4,21 @@
 <head>
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
-  <title>Tiệc cưới Công Luật & Kim Ngân</title>
+  <!-- <title>Tiệc cưới Công Luật & Kim Ngân</title>
   <meta property="og:image:height" content="400">
   <meta property="og:image:width" content="640">
   <meta property="og:title" content="Tiệc cưới Công Luật & Kim Ngân" />
   <meta property="og:description" content="Tiệc cưới Công Luật & Kim Ngân" />
   <meta property="og:image" content="../clients/assets/img/A2.jpg" />
-  <!-- <meta property="og:url" content="https://example.com" /> -->
-  <meta property="og:type" content="website" />
+  <meta property="og:type" content="website" /> -->
+    <meta property="og:site_name" content="Công Luật &amp; Kim Ngân">
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="Công Luật &amp; Kim Ngân Wedding">
+    <meta property="og:url" content="http://weddingmarry.online:83/nha-trai">
+    <meta property="og:description" content="Công Luật &amp; Kim Ngân - Our wedding date: 2024-11-24 ">
+    <meta property="og:image" content="http://weddingmarry.online:83/clients/assets/img/A2.jpg">
+    <meta property="og:image:url" content="http://weddingmarry.online:83/clients/assets/img/A2.jpg">
+    <meta property="og:image:secure_url" content="http://weddingmarry.online:83/clients/assets/img/A2.jpg">
   <script src="https://kit.fontawesome.com/42d5adcbca.js" crossorigin="anonymous"></script>
   <!-- Favicons -->
   <link href="../clients/assets/img/A2.jpg" rel="icon">
