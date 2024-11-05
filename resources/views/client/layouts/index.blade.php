@@ -4,10 +4,12 @@
 <head>
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
-
-  <title>Tiệc cưới Công Luật & Kim Ngân</title>
+  <meta property="og:image:alt" content="Tiệc cưới Công Luật & Kim Ngân">
+  <title></title>
   <meta property="og:image" content="https://scontent.fhan14-3.fna.fbcdn.net/v/t39.30808-1/442484854_1215584339606496_4817130642959176259_n.jpg?stp=dst-jpg_s200x200&_nc_cat=103&ccb=1-7&_nc_sid=0ecb9b&_nc_ohc=I2rdokxQV0YQ7kNvgEiHDHS&_nc_zt=24&_nc_ht=scontent.fhan14-3.fna&_nc_gid=AB7rxJJvUg17Vs0QAxlvjPo&oh=00_AYD8cvM10Vs2jGS9N3XyUImxMKWRTX5ztgsMfzxb6r936g&oe=672F7112">
   <meta content="" name="description">
+  <meta property="og:image:height" content="400">
+  <meta property="og:image:width" content="640">
   <meta content="" name="keywords">
   <script src="https://kit.fontawesome.com/42d5adcbca.js" crossorigin="anonymous"></script>
   <!-- Favicons -->
