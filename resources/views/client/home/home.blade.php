@@ -132,7 +132,7 @@
                   <span style="font-family: &quot;times new roman&quot;, times, serif;color:#000000;font-weight: 600;"><span style="color:#080f24">THỨ BẢY</span> <span style="font-size:36px;color:#080f24">|</span> <span style="font-size:36px;color:#ff1212a6">23</span> <span style="font-size:36px;color:#080f24">|</span> <span style="color:#080f24;padding-right: 25px;">11-2024</span></span> <br>
                   <span style="font-family: &quot;times new roman&quot;, times, serif;color:#000000">( Tức ngày 23 tháng 11 năm Giáp Thìn )</span> <br>
                   <span style="font-family: &quot;times new roman&quot;, times, serif;color: #000000;font-weight: 600;">Tại tư gia nhà gái</span> <br>
-                  <span style="font-family: &quot;times new roman&quot;, times, serif;color: #cb0000;font-size: 13px;">Km 157+500 CT NB-LC, Thôn Khe Dẹt, Xã Tân Hợp, Huyện Văn Yên, tỉnh Yên Bái</span> <br>
+                  <span style="font-family: &quot;times new roman&quot;, times, serif;color: #cb0000;font-size: 15px;">Km 157+500 CT NB-LC, Thôn Khe Dẹt, Xã Tân Hợp, Huyện Văn Yên, tỉnh Yên Bái</span> <br>
                   <!-- <span style="font-family: &quot;times new roman&quot;, times, serif;color: #cb0000;font-weight: 600;">Xem bản đồ</span> <br> -->
                   <div class="row">
                     <div class="col-md-12 col-12 collection main-container">
