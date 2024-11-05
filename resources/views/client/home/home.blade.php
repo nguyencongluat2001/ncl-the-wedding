@@ -14,6 +14,7 @@
             </div> -->
             <div style="background: #0000004a;border-radius: 5px;">
               <div style="padding:20px">
+              @if($status == 1)
                 <center>
                   <span>
                   <img src="{{url('/clients/assets/img/text-luat-white.png')}}" style="background: no-repeat;object-fit: scale-down !important;width: 40%;height: 20% !important;" class="img-thumbnail" alt="Product Image">  <img src="{{url('/clients/assets/img/text-&-white.png')}}" style="background: no-repeat;object-fit: scale-down !important;width: 5%;height: 5% !important;" class="img-thumbnail" alt="Product Image"> <img src="{{url('/clients/assets/img/text-ngan-white.png')}}" style="background: no-repeat;object-fit: scale-down !important;width: 40%;height: 20% !important;" class="img-thumbnail" alt="Product Image">
@@ -23,6 +24,18 @@
                   <span style="font-family: &quot;times new roman&quot;, times, serif;color:#ffffff;font-weight: 600;"><span style="color:#ffffff">CHỦ NHẬT</span> <span style="font-size:36px;color:#ffffff">|</span> <span style="font-size:36px;color:#ff7a7a">24</span> <span style="font-size:36px;color:#ffffff">|</span> <span style="color:#ffffff;padding-right: 25px;"> 11-2024 </span></span> <br>
                   <span style="font-family: &quot;times new roman&quot;, times, serif;color:#ffffff">( Tức ngày 24 tháng 11 năm Giáp Thìn )</span> <br>
                 </center>
+              @endif
+              @if($status == 2)
+                <center>
+                  <span>
+                  <img src="{{url('/clients/assets/img/text-luat-white.png')}}" style="background: no-repeat;object-fit: scale-down !important;width: 40%;height: 20% !important;" class="img-thumbnail" alt="Product Image">  <img src="{{url('/clients/assets/img/text-&-white.png')}}" style="background: no-repeat;object-fit: scale-down !important;width: 5%;height: 5% !important;" class="img-thumbnail" alt="Product Image"> <img src="{{url('/clients/assets/img/text-ngan-white.png')}}" style="background: no-repeat;object-fit: scale-down !important;width: 40%;height: 20% !important;" class="img-thumbnail" alt="Product Image">
+                  </span> <br>
+                  <span style="font-family: 'Courier New', monospace;color: #ff4b4b;font-size: 20px;">Lễ thành hôn</span> <br>
+                  <span style="font-family: &quot;times new roman&quot;, times, serif;color:#ffffff;font-weight: 600;">16 Giờ 00 Phút</span> <br>
+                  <span style="font-family: &quot;times new roman&quot;, times, serif;color:#ffffff;font-weight: 600;"><span style="color:#ffffff">THỨ BẢY</span> <span style="font-size:36px;color:#ffffff">|</span> <span style="font-size:36px;color:#ff7a7a">23</span> <span style="font-size:36px;color:#ffffff">|</span> <span style="color:#ffffff;padding-right: 25px;"> 11-2024 </span></span> <br>
+                  <span style="font-family: &quot;times new roman&quot;, times, serif;color:#ffffff">( Tức ngày 23 tháng 11 năm Giáp Thìn )</span> <br>
+                </center>
+              @endif
               </div>
                 
               <!-- <span style="font-family: 'Courier New', monospace;color: #ff4b4b;font-size: 20px;">Lễ thành hôn</span> <br>
@@ -73,10 +86,8 @@
                   <span style="font-family: &quot;times new roman&quot;, times, serif;color:#000000;font-weight: 600;"><span style="color:#080f24">CHỦ NHẬT</span> <span style="font-size:36px;color:#080f24">|</span> <span style="font-size:36px;color:#ff1212a6">24</span> <span style="font-size:36px;color:#080f24">|</span> <span style="color:#080f24;padding-right: 25px;">11-2024</span></span> <br>
                   <span style="font-family: &quot;times new roman&quot;, times, serif;color:#000000">( Tức ngày 24 tháng 11 năm Giáp Thìn )</span> <br>
                   <span style="font-family: &quot;times new roman&quot;, times, serif;color: #000000;font-weight: 600;">Tại tư gia nhà trai</span> <br>
-                  <span style="font-family: &quot;times new roman&quot;, times, serif;color: #cb0000;font-weight: 600;">Làng Quyên, Xã Vũ Linh, Yên Bình, Yên Bái</span> <br>
-                  <span style="font-family: &quot;times new roman&quot;, times, serif;color: #cb0000;font-weight: 600;">Xem bản đồ</span> <br>
+                  <span style="font-family: &quot;times new roman&quot;, times, serif;color: #cb0000;font-size: 16px;">Làng Quyên, Xã Vũ Linh, Yên Bình, Yên Bái</span> <br>
                   <div class="row">
-                     <img src="{{url('/clients/assets/img/text-suhiendiencuaquykhachla.png')}}" style="background: no-repeat;object-fit: scale-down !important;height: 20% !important;" class="img-thumbnail" alt="Product Image">
                     <div class="col-md-12 col-12 collection main-container">
                       <div class="row" style="padding-right: 0px !important;padding-left: 0px !important;margin-top: 0px !important">
                         <div class="col-lg-6 col-md-6 col-sm-6 col-6 product-hover" style="padding-right: 0px !important;padding-left: 0px !important;margin-top: 0px !important">
@@ -101,6 +112,7 @@
                         </div>
                       </div>  
                     </div>
+                    <img src="{{url('/clients/assets/img/text-suhiendiencuaquykhachla.png')}}" style="background: no-repeat;object-fit: scale-down !important;height: 20% !important;" class="img-thumbnail" alt="Product Image">
                   </div>
                 </center>
               @endif
@@ -120,10 +132,9 @@
                   <span style="font-family: &quot;times new roman&quot;, times, serif;color:#000000;font-weight: 600;"><span style="color:#080f24">THỨ BẢY</span> <span style="font-size:36px;color:#080f24">|</span> <span style="font-size:36px;color:#ff1212a6">23</span> <span style="font-size:36px;color:#080f24">|</span> <span style="color:#080f24;padding-right: 25px;">11-2024</span></span> <br>
                   <span style="font-family: &quot;times new roman&quot;, times, serif;color:#000000">( Tức ngày 23 tháng 11 năm Giáp Thìn )</span> <br>
                   <span style="font-family: &quot;times new roman&quot;, times, serif;color: #000000;font-weight: 600;">Tại tư gia nhà gái</span> <br>
-                  <span style="font-family: &quot;times new roman&quot;, times, serif;color: #cb0000;font-weight: 600;">Km 157+500 cao tốc NB-LC, Thôn Khe Dẹt, Xã Tân Hợp, Huyện Văn Yên, tỉnh Yên Bái</span> <br>
+                  <span style="font-family: &quot;times new roman&quot;, times, serif;color: #cb0000;font-size: 13px;">Km 157+500 CT NB-LC, Thôn Khe Dẹt, Xã Tân Hợp, Huyện Văn Yên, tỉnh Yên Bái</span> <br>
                   <!-- <span style="font-family: &quot;times new roman&quot;, times, serif;color: #cb0000;font-weight: 600;">Xem bản đồ</span> <br> -->
                   <div class="row">
-                     <img src="{{url('/clients/assets/img/text-suhiendiencuaquykhachla.png')}}" style="background: no-repeat;object-fit: scale-down !important;height: 20% !important;" class="img-thumbnail" alt="Product Image">
                     <div class="col-md-12 col-12 collection main-container">
                       <div class="row" style="padding-right: 0px !important;padding-left: 0px !important;margin-top: 0px !important">
                         <div class="col-lg-6 col-md-6 col-sm-6 col-6 product-hover" style="">
@@ -148,6 +159,7 @@
                         </div>
                       </div>  
                     </div>
+                    <img src="{{url('/clients/assets/img/text-suhiendiencuaquykhachla.png')}}" style="background: no-repeat;object-fit: scale-down !important;height: 20% !important;" class="img-thumbnail" alt="Product Image">
                   </div>
                 </center>
               @endif
