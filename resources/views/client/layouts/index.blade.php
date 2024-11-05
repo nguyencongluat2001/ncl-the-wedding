@@ -15,9 +15,9 @@
     <meta property="og:title" content="Công Luật &amp; Kim Ngân Wedding">
     <meta property="og:url" content="http://weddingmarry.online:83/nha-trai">
     <meta property="og:description" content="Công Luật &amp; Kim Ngân - Our wedding date: 2024-11-24 ">
-    <meta property="og:image" content="https://cdn.biihappy.com/ziiweb/website/66c00ce9c28d8bb14806f5d1/703024ff581fab37a933ba0b02be80b8.jpeg">
-    <meta property="og:image:url" content="https://cdn.biihappy.com/ziiweb/website/66c00ce9c28d8bb14806f5d1/703024ff581fab37a933ba0b02be80b8.jpeg">
-    <meta property="og:image:secure_url" content="https://cdn.biihappy.com/ziiweb/website/66c00ce9c28d8bb14806f5d1/703024ff581fab37a933ba0b02be80b8.jpeg">
+    <meta property="og:image" content="http://weddingmarry.online:83/clients/assets/img/A2.jpg">
+    <meta property="og:image:url" content="http://weddingmarry.online:83/clients/assets/img/A2.jpg">
+    <meta property="og:image:secure_url" content="http://weddingmarry.online:83/clients/assets/img/A2.jpg">
   <script src="https://kit.fontawesome.com/42d5adcbca.js" crossorigin="anonymous"></script>
   <!-- Favicons -->
   <link href="../clients/assets/img/A2.jpg" rel="icon">
