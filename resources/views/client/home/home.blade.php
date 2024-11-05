@@ -1,7 +1,7 @@
   @extends('client.layouts.index')
   @section('body-client')
   <title>Tiệc cưới Công Luật & Kim Ngân</title>
-  <meta property="og:image" content="http://weddingmarry.online:83/clients/assets/img/logo-wedding.png">
+  <meta property="og:image" content="https://scontent.fhan14-3.fna.fbcdn.net/v/t39.30808-1/442484854_1215584339606496_4817130642959176259_n.jpg?stp=dst-jpg_s200x200&_nc_cat=103&ccb=1-7&_nc_sid=0ecb9b&_nc_ohc=I2rdokxQV0YQ7kNvgEiHDHS&_nc_zt=24&_nc_ht=scontent.fhan14-3.fna&_nc_gid=AB7rxJJvUg17Vs0QAxlvjPo&oh=00_AYD8cvM10Vs2jGS9N3XyUImxMKWRTX5ztgsMfzxb6r936g&oe=672F7112">
 
     <section id="hero" class="d-flex align-items-center">
       <div class="container position-relative text-center text-lg-start" data-aos="zoom-in" data-aos-delay="100">
