@@ -47,7 +47,7 @@
 </head>
 
 <body>
-<audio id="videos" src="../clients/assets/img/video.mp4" controls autoplay>
+<audio id="videos" src="../clients/assets/img/video.mp4" autoplay>
 </audio>
 
   <!-- <div id="topbar" class="d-flex align-items-center fixed-top">
