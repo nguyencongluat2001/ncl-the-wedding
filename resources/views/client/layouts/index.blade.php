@@ -6,10 +6,10 @@
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
   <title>Tiệc cưới Công Luật & Kim Ngân</title>
+  <meta property="og:image" content="../clients/assets/img/A2.jpg">
   <meta content="" name="description">
   <meta content="" name="keywords">
   <script src="https://kit.fontawesome.com/42d5adcbca.js" crossorigin="anonymous"></script>
-
   <!-- Favicons -->
   <link href="../clients/assets/img/A2.jpg" rel="icon">
   <link href="../clients/assets/img/apple-touch-icon.png" rel="apple-touch-icon">
