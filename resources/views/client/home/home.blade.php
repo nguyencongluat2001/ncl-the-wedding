@@ -252,23 +252,19 @@
         </div>  
       </div>
     </div>
-  </div>
-</section>
-<!-- ======= Events Section ======= -->
-<section id="events" class="events">
-  <div class="container" data-aos="fade-up">
-    <div class="section-title" style="padding-top: 40px;">
-      <h2>Gặp Gỡ</h2>
+    <div class="container" data-aos="fade-up">
+      <div class="section-title" style="padding-top: 40px;">
+        <h2>Gặp Gỡ</h2>
+      </div>
+      <span style="color:#edf7ffb0;font-family: &quot;times new roman&quot;, times, serif;">
+      “Nếu anh chưa từng gặp em, anh sẽ không thích em
+        Nếu anh chưa từng thích em, anh sẽ không yêu em
+        Nếu anh chưa từng yêu em, anh sẽ không nhớ em.
+        Nhưng anh đã yêu, đang yêu và sẽ mãi mãi luôn yêu em".
+      </span>
     </div>
-    <span style="color:#edf7ffb0;font-family: &quot;times new roman&quot;, times, serif;">
-    “Nếu anh chưa từng gặp em, anh sẽ không thích em
-      Nếu anh chưa từng thích em, anh sẽ không yêu em
-      Nếu anh chưa từng yêu em, anh sẽ không nhớ em.
-      Nhưng anh đã yêu, đang yêu và sẽ mãi mãi luôn yêu em".
-    </span>
   </div>
 </section>
-<!-- Container for the image gallery -->
 
 <!-- ======= Testimonials Section ======= -->
 <section id="testimonials" class="events section-bg">
@@ -288,6 +284,11 @@
         <div class="swiper-slide">
           <div class="testimonial-item">
             <img src="{{url('/clients/assets/img/B5.jpg')}}" style="" class="img-thumbnail" alt="Product Image">
+          </div>
+        </div>
+        <div class="swiper-slide">
+          <div class="testimonial-item">
+            <img src="{{url('/clients/assets/img/B14.jpg')}}" style="" class="img-thumbnail" alt="Product Image">
           </div>
         </div>
         <div class="swiper-slide">
