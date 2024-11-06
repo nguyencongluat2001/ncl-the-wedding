@@ -277,7 +277,7 @@
             <div class="address" style="padding:10px">
               <i class="bi bi-geo-alt"></i>
               <h4>Địa chỉ nhà trai:</h4>
-              <p>Thôn Làng Quyên, Xã VŨ Linh, Huyện Yên Bình, tỉnh Yên Bái</p>
+              <p>Thôn Làng Quyên, Xã Vũ Linh, Huyện Yên Bình, tỉnh Yên Bái</p>
             </div>
           </div>
     </div>
@@ -290,7 +290,7 @@
             <div class="address" style="padding:10px">
               <i class="bi bi-geo-alt"></i>
               <h4>Địa chỉ nhà gái:</h4>
-              <p>Km 157+500 cao tốc NB-LC, Thôn Khe Dẹt, Xã Tân Hợp, Huyện Văn Yên, tỉnh Yên Bái</p>
+              <p>Km 157+500 cao tốc Nội Bài - Lào Cai, Thôn Khe Dẹt, Xã Tân Hợp, Huyện Văn Yên, tỉnh Yên Bái</p>
             </div>
           </div>
     </div>
