@@ -280,7 +280,11 @@
 
     <div class="testimonials-slider swiper-container" data-aos="fade-up" data-aos-delay="100">
       <div class="swiper-wrapper">
-
+        <div class="swiper-slide">
+          <div class="testimonial-item">
+            <img src="{{url('/clients/assets/img/B5.jpg')}}" style="" class="img-thumbnail" alt="Product Image">
+          </div>
+        </div>
         <div class="swiper-slide">
           <div class="testimonial-item">
             <img src="{{url('/clients/assets/img/B1.jpg')}}" style="" class="img-thumbnail" alt="Product Image">
@@ -300,11 +304,6 @@
         <div class="swiper-slide">
           <div class="testimonial-item">
             <img src="{{url('/clients/assets/img/B4.jpg')}}" style="" class="img-thumbnail" alt="Product Image">
-          </div>
-        </div>
-        <div class="swiper-slide">
-          <div class="testimonial-item">
-            <img src="{{url('/clients/assets/img/B5.jpg')}}" style="" class="img-thumbnail" alt="Product Image">
           </div>
         </div>
         <div class="swiper-slide">
