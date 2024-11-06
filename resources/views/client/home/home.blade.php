@@ -200,7 +200,11 @@
             <img src="{{url('/clients/assets/img/B1.jpg')}}" style="" class="img-thumbnail" alt="Product Image">
           </div>
         </div><!-- End testimonial item -->
-
+        <div class="swiper-slide">
+          <div class="testimonial-item">
+            <img src="{{url('/clients/assets/img/B12.jpg')}}" style="" class="img-thumbnail" alt="Product Image">
+          </div>
+        </div><!-- End testimonial item -->
         <div class="swiper-slide">
           <div class="testimonial-item">
             <img src="{{url('/clients/assets/img/B2.jpg')}}" style="" class="img-thumbnail" alt="Product Image">
