@@ -165,32 +165,19 @@
   </div>
 </section>
 <!-- ======= Events Section ======= -->
-
-<!-- ======= Testimonials Section ======= -->
-<section id="testimonials" class="testimonials">
+<section id="events" class="events">
   <div class="container" data-aos="fade-up">
-
-    <div class="section-title">
-      <h2>Gặp gỡ</h2>
+    <div class="section-title" style="padding-top: 40px;">
+      <h2>Gặp Gỡ</h2>
     </div>
-      <div class="swiper-wrapper">
-        <div class="swiper-slide">
-          <div class="testimonial-item">
-            <p>
-              <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-              “Nếu anh chưa từng gặp em, anh sẽ không thích em
-                Nếu anh chưa từng thích em, anh sẽ không yêu em
-                Nếu anh chưa từng yêu em, anh sẽ không nhớ em.
-                Nhưng anh đã yêu, đang yêu và sẽ mãi mãi luôn yêu em".
-              <i class="bx bxs-quote-alt-right quote-icon-right"></i>
-            </p>
-            <img src="{{url('/clients/assets/img/B11.jpg')}}" class="testimonial-img" alt="">
-          </div>
-        </div><!-- End testimonial item -->
-      </div>
-      <div class="swiper-pagination"></div>
+    <span style="color:#edf7ffb0;font-family: &quot;times new roman&quot;, times, serif;">
+    “Nếu anh chưa từng gặp em, anh sẽ không thích em
+      Nếu anh chưa từng thích em, anh sẽ không yêu em
+      Nếu anh chưa từng yêu em, anh sẽ không nhớ em.
+      Nhưng anh đã yêu, đang yêu và sẽ mãi mãi luôn yêu em".
+    </span>
   </div>
-</section><!-- End Testimonials Section -->
+</section>
 <!-- ======= Testimonials Section ======= -->
 <section id="testimonials" class="events section-bg">
   <div class="container" data-aos="fade-up">
@@ -270,7 +257,6 @@
 
   </div>
 </section><!-- End Testimonials Section -->
-
 <!-- ======= Contact Section ======= -->
 <section id="contact" class="contact">
   <div class="container" data-aos="fade-up">
