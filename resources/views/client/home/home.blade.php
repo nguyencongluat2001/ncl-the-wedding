@@ -102,10 +102,12 @@
             <div style="border-radius: 5px;">
             
               <div style="padding:20px;background: #00000061;">
-              <div class="">
-                <img src="{{url('/clients/assets/img/ring.jpg')}}" style="background: no-repeat;object-fit: scale-down !important;width: 20%;" class="img-thumbnail" alt="Product Image">
-              </div>
-              <span style="font-family: 'Courier New', monospace;color: #ff4b4b;font-size: 20px;font-weight: 600;">LỄ THÀNH HÔN</span> <br>
+                <center>
+                  <div class="">
+                    <img src="{{url('/clients/assets/img/ring.jpg')}}" style="background: no-repeat;object-fit: scale-down !important;width: 20%;" class="img-thumbnail" alt="Product Image">
+                  </div>
+                  <span style="font-family: 'Courier New', monospace;color: #ff4b4b;font-size: 20px;font-weight: 600;">LỄ THÀNH HÔN</span> <br>
+                </center>
               @if($status == 1)
                 <center>
                   <span>
