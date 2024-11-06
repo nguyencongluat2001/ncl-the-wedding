@@ -301,7 +301,7 @@
     <img src="{{url('/clients/assets/img/B6.jpg')}}" style="margin-top: 10px" class="img-thumbnail" alt="Product Image">
   </div>
 
-  <div class="mySlides">
+  <!-- <div class="mySlides">
     <img src="{{url('/clients/assets/img/B7.jpg')}}" style="margin-top: 10px" class="img-thumbnail" alt="Product Image">
   </div>
 
@@ -321,7 +321,7 @@
   </div>
   <div class="mySlides">
     <img src="{{url('/clients/assets/img/B12.jpg')}}" style="margin-top: 10px" class="img-thumbnail" alt="Product Image">
-  </div>
+  </div> -->
 
   <!-- Next and previous buttons -->
   <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
@@ -352,7 +352,7 @@
     <div class="column">
       <img class="demo cursor" src="{{url('/clients/assets/img/B6.jpg')}}" style="width:100%" onclick="currentSlide(6)" alt="6 / 12">
     </div>
-    <div class="column">
+    <!-- <div class="column">
       <img class="demo cursor" src="{{url('/clients/assets/img/B7.jpg')}}" style="width:100%" onclick="currentSlide(7)" alt="7 / 12">
     </div>
     <div class="column">
@@ -369,7 +369,7 @@
     </div>
     <div class="column">
       <img class="demo cursor" src="{{url('/clients/assets/img/B12.jpg')}}" style="width:100%" onclick="currentSlide(12)" alt="12 / 12">
-    </div>
+    </div> -->
   </div>
 </div>
 <!-- ======= Testimonials Section ======= -->
