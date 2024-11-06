@@ -176,180 +176,87 @@
       Nếu anh chưa từng yêu em, anh sẽ không nhớ em.
       Nhưng anh đã yêu, đang yêu và sẽ mãi mãi luôn yêu em".
     </span>
-    <div class="section-title" style="padding-top: 40px;">
-      <h2>Album</h2>
-    </div>
-    <!-- <div class="row">
-      <div class="col-md-12 col-12 collection main-container">
-        <div class="row" style="padding-right: 0px !important;padding-left: 0px !important;margin-top: 0px !important">
-          <div class="col-lg-6 col-md-6 col-sm-6 col-6 product-hover" style="">
-            <div class="box" data-aos="zoom-in" data-aos-delay="100">
-              <img src="{{url('/clients/assets/img/A15.jpg')}}" style="height: 280px !important;" class="img-thumbnail" alt="Product Image">
-            </div>
-          </div>
-          <div class="col-lg-6 col-md-6 col-sm-6 col-6 product-hover" style="">
-            <div class="box" data-aos="zoom-in" data-aos-delay="100">
-              <img src="{{url('/clients/assets/img/A6.jpg')}}" style="height: 280px !important;" class="img-thumbnail" alt="Product Image">
-            </div>
-          </div>
-        </div>  
-      </div>
-    </div> -->
-
-
-    
-    <!-- <div class="row">
-      <div class="col-md-12 col-12 collection main-container">
-        <div class="row" style="padding-right: 0px !important;padding-left: 0px !important;margin-top: 0px !important">
-          <div class="col-lg-4 col-md-6 col-sm-6 col-4 product-hover" style="">
-            <div class="box" data-aos="zoom-in" data-aos-delay="100">
-              <img src="{{url('/clients/assets/img/A15.jpg')}}" class="img-thumbnail" alt="Product Image">
-            </div>
-          </div>
-          <div class="col-lg-4 col-md-6 col-sm-6 col-4 product-hover" style="">
-            <div class="box" data-aos="zoom-in" data-aos-delay="100">
-              <img src="{{url('/clients/assets/img/A6.jpg')}}" class="img-thumbnail" alt="Product Image">
-            </div>
-          </div>
-          <div class="col-lg-4 col-md-6 col-sm-6 col-4 product-hover" style="">
-            <div class="box" data-aos="zoom-in" data-aos-delay="100">
-              <img src="{{url('/clients/assets/img/A14.jpg')}}" class="img-thumbnail" alt="Product Image">
-            </div>
-          </div>
-        </div>  
-      </div>
-    </div>
-    <div class="row">
-      <div class="col-md-12 col-12 collection main-container">
-        <div class="row" style="padding-right: 0px !important;padding-left: 0px !important;margin-top: 0px !important">
-          <div class="col-12 product-hover" style="">
-            <div class="box" data-aos="zoom-in" data-aos-delay="100">
-              <img src="{{url('/clients/assets/img/A5.jpg')}}" class="img-thumbnail" alt="Product Image">
-            </div>
-          </div>
-        </div>  
-      </div>
-    </div>
-    <div class="row">
-      <div class="col-md-12 col-12 collection main-container">
-        <div class="row" style="padding-right: 0px !important;padding-left: 0px !important;margin-top: 0px !important">
-          <div class="col-lg-4 col-md-6 col-sm-6 col-4 product-hover" style="">
-            <div class="box" data-aos="zoom-in" data-aos-delay="100">
-              <img src="{{url('/clients/assets/img/A10.jpg')}}" class="img-thumbnail" alt="Product Image">
-            </div>
-          </div>
-          <div class="col-lg-4 col-md-6 col-sm-6 col-4 product-hover" style="">
-            <div class="box" data-aos="zoom-in" data-aos-delay="100">
-              <img src="{{url('/clients/assets/img/A12.jpg')}}" class="img-thumbnail" alt="Product Image">
-            </div>
-          </div>
-          <div class="col-lg-4 col-md-6 col-sm-6 col-4 product-hover" style="">
-            <div class="box" data-aos="zoom-in" data-aos-delay="100">
-              <img src="{{url('/clients/assets/img/A13.jpg')}}" class="img-thumbnail" alt="Product Image">
-            </div>
-          </div>
-        </div>  
-      </div>
-    </div> -->
   </div>
 </section>
-<!-- ======= Events Section ======= -->
-<section id="events" class="events">
-  <div class="container" data-aos="fade-up">
-    <div class="events-slider swiper-container" data-aos="fade-up" data-aos-delay="100">
-      <div class="swiper-wrapper">
-        <div class="swiper-slide">
-          <div class="row event-item">
-            <div class="">
-               <img src="{{url('/clients/assets/img/B1.jpg')}}" style="" class="img-thumbnail" alt="Product Image">
-            </div>
-          </div>
-        </div><!-- End testimonial item -->
+<!-- ======= Testimonials Section ======= -->
+<section id="testimonials" class="events section-bg">
+      <div class="container" data-aos="fade-up">
 
-        <div class="swiper-slide">
-          <div class="row event-item">
-            <div class="">
-            <img src="{{url('/clients/assets/img/B0.jpg')}}" style="" class="img-thumbnail" alt="Product Image">
-            </div>
-          </div>
-        </div><!-- End testimonial item -->
+        <div class="section-title">
+          <h2>Abuml</h2>
+        </div>
 
-        <div class="swiper-slide">
-          <div class="row event-item">
-            <div class="">
-            <img src="{{url('/clients/assets/img/B2.jpg')}}" style="" class="img-thumbnail" alt="Product Image">
-            </div>
+        <div class="testimonials-slider swiper-container" data-aos="fade-up" data-aos-delay="100">
+          <div class="swiper-wrapper">
+
+            <div class="swiper-slide">
+              <div class="testimonial-item">
+                <img src="{{url('/clients/assets/img/B0.jpg')}}" style="" class="img-thumbnail" alt="Product Image">
+              </div>
+            </div><!-- End testimonial item -->
+
+            <div class="swiper-slide">
+              <div class="testimonial-item">
+                <img src="{{url('/clients/assets/img/B1.jpg')}}" style="" class="img-thumbnail" alt="Product Image">
+              </div>
+            </div><!-- End testimonial item -->
+
+            <div class="swiper-slide">
+              <div class="testimonial-item">
+                <img src="{{url('/clients/assets/img/B2.jpg')}}" style="" class="img-thumbnail" alt="Product Image">
+              </div>
+            </div><!-- End testimonial item -->
+            <div class="swiper-slide">
+              <div class="testimonial-item">
+                <img src="{{url('/clients/assets/img/B3.jpg')}}" style="" class="img-thumbnail" alt="Product Image">
+              </div>
+            </div><!-- End testimonial item -->
+            <div class="swiper-slide">
+              <div class="testimonial-item">
+                <img src="{{url('/clients/assets/img/B4.jpg')}}" style="" class="img-thumbnail" alt="Product Image">
+              </div>
+            </div><!-- End testimonial item -->
+            <div class="swiper-slide">
+              <div class="testimonial-item">
+                <img src="{{url('/clients/assets/img/B5.jpg')}}" style="" class="img-thumbnail" alt="Product Image">
+              </div>
+            </div><!-- End testimonial item -->
+            <div class="swiper-slide">
+              <div class="testimonial-item">
+                <img src="{{url('/clients/assets/img/B6.jpg')}}" style="" class="img-thumbnail" alt="Product Image">
+              </div>
+            </div><!-- End testimonial item -->
+            <div class="swiper-slide">
+              <div class="testimonial-item">
+                <img src="{{url('/clients/assets/img/B7.jpg')}}" style="" class="img-thumbnail" alt="Product Image">
+              </div>
+            </div><!-- End testimonial item -->
+            <div class="swiper-slide">
+              <div class="testimonial-item">
+                <img src="{{url('/clients/assets/img/B8.jpg')}}" style="" class="img-thumbnail" alt="Product Image">
+              </div>
+            </div><!-- End testimonial item -->
+            <div class="swiper-slide">
+              <div class="testimonial-item">
+                <img src="{{url('/clients/assets/img/B9.jpg')}}" style="" class="img-thumbnail" alt="Product Image">
+              </div>
+            </div><!-- End testimonial item -->
+            <div class="swiper-slide">
+              <div class="testimonial-item">
+                <img src="{{url('/clients/assets/img/B10.jpg')}}" style="" class="img-thumbnail" alt="Product Image">
+              </div>
+            </div><!-- End testimonial item -->
+            <div class="swiper-slide">
+              <div class="testimonial-item">
+                <img src="{{url('/clients/assets/img/B11.jpg')}}" style="" class="img-thumbnail" alt="Product Image">
+              </div>
+            </div><!-- End testimonial item -->
           </div>
-        </div><!-- End testimonial item -->
-        <div class="swiper-slide">
-          <div class="row event-item">
-            <div class="">
-            <img src="{{url('/clients/assets/img/B3.jpg')}}" style="" class="img-thumbnail" alt="Product Image">
-            </div>
-          </div>
-        </div><!-- End testimonial item -->
-        <div class="swiper-slide">
-          <div class="row event-item">
-            <div class="">
-            <img src="{{url('/clients/assets/img/B4.jpg')}}" style="" class="img-thumbnail" alt="Product Image">
-            </div>
-          </div>
-        </div><!-- End testimonial item -->
-        <div class="swiper-slide">
-          <div class="row event-item">
-            <div class="">
-            <img src="{{url('/clients/assets/img/B5.jpg')}}" style="" class="img-thumbnail" alt="Product Image">
-            </div>
-          </div>
-        </div><!-- End testimonial item -->
-        <div class="swiper-slide">
-          <div class="row event-item">
-            <div class="">
-            <img src="{{url('/clients/assets/img/B6.jpg')}}" style="" class="img-thumbnail" alt="Product Image">
-            </div>
-          </div>
-        </div><!-- End testimonial item -->
-        <div class="swiper-slide">
-          <div class="row event-item">
-            <div class="">
-            <img src="{{url('/clients/assets/img/B7.jpg')}}" style="" class="img-thumbnail" alt="Product Image">
-            </div>
-          </div>
-        </div><!-- End testimonial item -->
-        <div class="swiper-slide">
-          <div class="row event-item">
-            <div class="">
-            <img src="{{url('/clients/assets/img/B8.jpg')}}" style="" class="img-thumbnail" alt="Product Image">
-            </div>
-          </div>
-        </div><!-- End testimonial item -->
-        <div class="swiper-slide">
-          <div class="row event-item">
-            <div class="">
-            <img src="{{url('/clients/assets/img/B9.jpg')}}" style="" class="img-thumbnail" alt="Product Image">
-            </div>
-          </div>
-        </div><!-- End testimonial item -->
-        <div class="swiper-slide">
-          <div class="row event-item">
-            <div class="">
-            <img src="{{url('/clients/assets/img/B10.jpg')}}" style="" class="img-thumbnail" alt="Product Image">
-            </div>
-          </div>
-        </div><!-- End testimonial item -->
-        <div class="swiper-slide">
-          <div class="row event-item">
-            <div class="">
-            <img src="{{url('/clients/assets/img/B11.jpg')}}" style="" class="img-thumbnail" alt="Product Image">
-            </div>
-          </div>
-        </div><!-- End testimonial item -->
+          <div class="swiper-pagination"></div>
+        </div>
+
       </div>
-      <div class="swiper-pagination"></div>
-    </div>
-
-  </div>
-</section><!-- End Events Section -->
+    </section><!-- End Testimonials Section -->
 <!-- ======= Contact Section ======= -->
 <section id="contact" class="contact">
   <div class="container" data-aos="fade-up">
