@@ -165,98 +165,112 @@
   </div>
 </section>
 <!-- ======= Events Section ======= -->
-<section id="events" class="events">
+
+<!-- ======= Testimonials Section ======= -->
+<section id="testimonials" class="testimonials">
   <div class="container" data-aos="fade-up">
-    <div class="section-title" style="padding-top: 40px;">
-      <h2>Gặp Gỡ</h2>
+
+    <div class="section-title">
+      <h2>Gặp gỡ</h2>
     </div>
-    <span style="color:#edf7ffb0;font-family: &quot;times new roman&quot;, times, serif;">
-    “Nếu anh chưa từng gặp em, anh sẽ không thích em
-      Nếu anh chưa từng thích em, anh sẽ không yêu em
-      Nếu anh chưa từng yêu em, anh sẽ không nhớ em.
-      Nhưng anh đã yêu, đang yêu và sẽ mãi mãi luôn yêu em".
-    </span>
+      <div class="swiper-wrapper">
+        <div class="swiper-slide">
+          <div class="testimonial-item">
+            <p>
+              <i class="bx bxs-quote-alt-left quote-icon-left"></i>
+              “Nếu anh chưa từng gặp em, anh sẽ không thích em
+                Nếu anh chưa từng thích em, anh sẽ không yêu em
+                Nếu anh chưa từng yêu em, anh sẽ không nhớ em.
+                Nhưng anh đã yêu, đang yêu và sẽ mãi mãi luôn yêu em".
+              <i class="bx bxs-quote-alt-right quote-icon-right"></i>
+            </p>
+            <img src="{{url('/clients/assets/img/B11.jpg')}}" class="testimonial-img" alt="">
+          </div>
+        </div><!-- End testimonial item -->
+      </div>
+      <div class="swiper-pagination"></div>
   </div>
-</section>
+</section><!-- End Testimonials Section -->
 <!-- ======= Testimonials Section ======= -->
 <section id="testimonials" class="events section-bg">
-      <div class="container" data-aos="fade-up">
+  <div class="container" data-aos="fade-up">
 
-        <div class="section-title">
-          <h2>Abuml</h2>
-        </div>
+    <div class="section-title">
+      <h2>Abuml</h2>
+    </div>
 
-        <div class="testimonials-slider swiper-container" data-aos="fade-up" data-aos-delay="100">
-          <div class="swiper-wrapper">
+    <div class="testimonials-slider swiper-container" data-aos="fade-up" data-aos-delay="100">
+      <div class="swiper-wrapper">
 
-            <div class="swiper-slide">
-              <div class="testimonial-item">
-                <img src="{{url('/clients/assets/img/B0.jpg')}}" style="" class="img-thumbnail" alt="Product Image">
-              </div>
-            </div><!-- End testimonial item -->
-
-            <div class="swiper-slide">
-              <div class="testimonial-item">
-                <img src="{{url('/clients/assets/img/B1.jpg')}}" style="" class="img-thumbnail" alt="Product Image">
-              </div>
-            </div><!-- End testimonial item -->
-
-            <div class="swiper-slide">
-              <div class="testimonial-item">
-                <img src="{{url('/clients/assets/img/B2.jpg')}}" style="" class="img-thumbnail" alt="Product Image">
-              </div>
-            </div><!-- End testimonial item -->
-            <div class="swiper-slide">
-              <div class="testimonial-item">
-                <img src="{{url('/clients/assets/img/B3.jpg')}}" style="" class="img-thumbnail" alt="Product Image">
-              </div>
-            </div><!-- End testimonial item -->
-            <div class="swiper-slide">
-              <div class="testimonial-item">
-                <img src="{{url('/clients/assets/img/B4.jpg')}}" style="" class="img-thumbnail" alt="Product Image">
-              </div>
-            </div><!-- End testimonial item -->
-            <div class="swiper-slide">
-              <div class="testimonial-item">
-                <img src="{{url('/clients/assets/img/B5.jpg')}}" style="" class="img-thumbnail" alt="Product Image">
-              </div>
-            </div><!-- End testimonial item -->
-            <div class="swiper-slide">
-              <div class="testimonial-item">
-                <img src="{{url('/clients/assets/img/B6.jpg')}}" style="" class="img-thumbnail" alt="Product Image">
-              </div>
-            </div><!-- End testimonial item -->
-            <div class="swiper-slide">
-              <div class="testimonial-item">
-                <img src="{{url('/clients/assets/img/B7.jpg')}}" style="" class="img-thumbnail" alt="Product Image">
-              </div>
-            </div><!-- End testimonial item -->
-            <div class="swiper-slide">
-              <div class="testimonial-item">
-                <img src="{{url('/clients/assets/img/B8.jpg')}}" style="" class="img-thumbnail" alt="Product Image">
-              </div>
-            </div><!-- End testimonial item -->
-            <div class="swiper-slide">
-              <div class="testimonial-item">
-                <img src="{{url('/clients/assets/img/B9.jpg')}}" style="" class="img-thumbnail" alt="Product Image">
-              </div>
-            </div><!-- End testimonial item -->
-            <div class="swiper-slide">
-              <div class="testimonial-item">
-                <img src="{{url('/clients/assets/img/B10.jpg')}}" style="" class="img-thumbnail" alt="Product Image">
-              </div>
-            </div><!-- End testimonial item -->
-            <div class="swiper-slide">
-              <div class="testimonial-item">
-                <img src="{{url('/clients/assets/img/B11.jpg')}}" style="" class="img-thumbnail" alt="Product Image">
-              </div>
-            </div><!-- End testimonial item -->
+        <div class="swiper-slide">
+          <div class="testimonial-item">
+            <img src="{{url('/clients/assets/img/B0.jpg')}}" style="" class="img-thumbnail" alt="Product Image">
           </div>
-          <div class="swiper-pagination"></div>
-        </div>
+        </div><!-- End testimonial item -->
 
+        <div class="swiper-slide">
+          <div class="testimonial-item">
+            <img src="{{url('/clients/assets/img/B1.jpg')}}" style="" class="img-thumbnail" alt="Product Image">
+          </div>
+        </div><!-- End testimonial item -->
+
+        <div class="swiper-slide">
+          <div class="testimonial-item">
+            <img src="{{url('/clients/assets/img/B2.jpg')}}" style="" class="img-thumbnail" alt="Product Image">
+          </div>
+        </div><!-- End testimonial item -->
+        <div class="swiper-slide">
+          <div class="testimonial-item">
+            <img src="{{url('/clients/assets/img/B3.jpg')}}" style="" class="img-thumbnail" alt="Product Image">
+          </div>
+        </div><!-- End testimonial item -->
+        <div class="swiper-slide">
+          <div class="testimonial-item">
+            <img src="{{url('/clients/assets/img/B4.jpg')}}" style="" class="img-thumbnail" alt="Product Image">
+          </div>
+        </div><!-- End testimonial item -->
+        <div class="swiper-slide">
+          <div class="testimonial-item">
+            <img src="{{url('/clients/assets/img/B5.jpg')}}" style="" class="img-thumbnail" alt="Product Image">
+          </div>
+        </div><!-- End testimonial item -->
+        <div class="swiper-slide">
+          <div class="testimonial-item">
+            <img src="{{url('/clients/assets/img/B6.jpg')}}" style="" class="img-thumbnail" alt="Product Image">
+          </div>
+        </div><!-- End testimonial item -->
+        <div class="swiper-slide">
+          <div class="testimonial-item">
+            <img src="{{url('/clients/assets/img/B7.jpg')}}" style="" class="img-thumbnail" alt="Product Image">
+          </div>
+        </div><!-- End testimonial item -->
+        <div class="swiper-slide">
+          <div class="testimonial-item">
+            <img src="{{url('/clients/assets/img/B8.jpg')}}" style="" class="img-thumbnail" alt="Product Image">
+          </div>
+        </div><!-- End testimonial item -->
+        <div class="swiper-slide">
+          <div class="testimonial-item">
+            <img src="{{url('/clients/assets/img/B9.jpg')}}" style="" class="img-thumbnail" alt="Product Image">
+          </div>
+        </div><!-- End testimonial item -->
+        <div class="swiper-slide">
+          <div class="testimonial-item">
+            <img src="{{url('/clients/assets/img/B10.jpg')}}" style="" class="img-thumbnail" alt="Product Image">
+          </div>
+        </div><!-- End testimonial item -->
+        <div class="swiper-slide">
+          <div class="testimonial-item">
+            <img src="{{url('/clients/assets/img/B11.jpg')}}" style="" class="img-thumbnail" alt="Product Image">
+          </div>
+        </div><!-- End testimonial item -->
       </div>
-    </section><!-- End Testimonials Section -->
+      <div class="swiper-pagination"></div>
+    </div>
+
+  </div>
+</section><!-- End Testimonials Section -->
+
 <!-- ======= Contact Section ======= -->
 <section id="contact" class="contact">
   <div class="container" data-aos="fade-up">
