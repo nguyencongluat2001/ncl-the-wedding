@@ -341,6 +341,31 @@
             <img src="{{url('/clients/assets/img/B12.jpg')}}" style="" class="img-thumbnail" alt="Product Image">
           </div>
         </div>
+        <div class="swiper-slide">
+          <div class="testimonial-item">
+            <img src="{{url('/clients/assets/img/B13.jpg')}}" style="" class="img-thumbnail" alt="Product Image">
+          </div>
+        </div>
+        <div class="swiper-slide">
+          <div class="testimonial-item">
+            <img src="{{url('/clients/assets/img/B14.jpg')}}" style="" class="img-thumbnail" alt="Product Image">
+          </div>
+        </div>
+        <div class="swiper-slide">
+          <div class="testimonial-item">
+            <img src="{{url('/clients/assets/img/B15.jpg')}}" style="" class="img-thumbnail" alt="Product Image">
+          </div>
+        </div>
+        <div class="swiper-slide">
+          <div class="testimonial-item">
+            <img src="{{url('/clients/assets/img/B16.jpg')}}" style="" class="img-thumbnail" alt="Product Image">
+          </div>
+        </div>
+        <div class="swiper-slide">
+          <div class="testimonial-item">
+            <img src="{{url('/clients/assets/img/B17.jpg')}}" style="" class="img-thumbnail" alt="Product Image">
+          </div>
+        </div>
       </div>
       <div class="swiper-pagination"></div>
     </div>
