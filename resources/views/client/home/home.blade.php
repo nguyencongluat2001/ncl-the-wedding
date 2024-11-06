@@ -61,7 +61,7 @@
 /* Container for image text */
 .caption-container {
   text-align: center;
-  background-color: #ffffff;
+  background-color: #13161e;
   padding: 2px 16px;
   color: white;
 }
@@ -271,39 +271,58 @@
 
   <!-- Full-width images with number text -->
   <div class="mySlides">
-    <div class="numbertext">1 / 6</div>
-    <img src="{{url('/clients/assets/img/B0.jpg')}}" style="" class="img-thumbnail" alt="Product Image">
+    <img src="{{url('/clients/assets/img/B0.jpg')}}" style="margin-top: 10px" class="img-thumbnail" alt="Product Image">
 
   </div>
 
   <div class="mySlides">
-    <div class="numbertext">2 / 6</div>
-    <img src="{{url('/clients/assets/img/B1.jpg')}}" style="" class="img-thumbnail" alt="Product Image">
+    <img src="{{url('/clients/assets/img/B1.jpg')}}" style="margin-top: 10px" class="img-thumbnail" alt="Product Image">
 
   </div>
 
   <div class="mySlides">
-    <div class="numbertext">3 / 6</div>
-    <img src="{{url('/clients/assets/img/B2.jpg')}}" style="" class="img-thumbnail" alt="Product Image">
+    <img src="{{url('/clients/assets/img/B2.jpg')}}" style="margin-top: 10px" class="img-thumbnail" alt="Product Image">
 
   </div>
 
   <div class="mySlides">
-    <div class="numbertext">4 / 6</div>
-    <img src="{{url('/clients/assets/img/B3.jpg')}}" style="" class="img-thumbnail" alt="Product Image">
+    <img src="{{url('/clients/assets/img/B3.jpg')}}" style="margin-top: 10px" class="img-thumbnail" alt="Product Image">
 
   </div>
 
   <div class="mySlides">
-    <div class="numbertext">5 / 6</div>
-    <img src="{{url('/clients/assets/img/B4.jpg')}}" style="" class="img-thumbnail" alt="Product Image">
+    <img src="{{url('/clients/assets/img/B4.jpg')}}" style="margin-top: 10px" class="img-thumbnail" alt="Product Image">
 
   </div>
 
   <div class="mySlides">
-    <div class="numbertext">6 / 6</div>
-    <img src="{{url('/clients/assets/img/B5.jpg')}}" style="" class="img-thumbnail" alt="Product Image">
+    <img src="{{url('/clients/assets/img/B5.jpg')}}" style="margin-top: 10px" class="img-thumbnail" alt="Product Image">
+  </div>
 
+  <div class="mySlides">
+    <img src="{{url('/clients/assets/img/B6.jpg')}}" style="margin-top: 10px" class="img-thumbnail" alt="Product Image">
+  </div>
+
+  <div class="mySlides">
+    <img src="{{url('/clients/assets/img/B7.jpg')}}" style="margin-top: 10px" class="img-thumbnail" alt="Product Image">
+  </div>
+
+  <div class="mySlides">
+    <img src="{{url('/clients/assets/img/B8.jpg')}}" style="margin-top: 10px" class="img-thumbnail" alt="Product Image">
+  </div>
+
+  <div class="mySlides">
+    <img src="{{url('/clients/assets/img/B9.jpg')}}" style="margin-top: 10px" class="img-thumbnail" alt="Product Image">
+  </div>
+
+  <div class="mySlides">
+    <img src="{{url('/clients/assets/img/B10.jpg')}}" style="margin-top: 10px" class="img-thumbnail" alt="Product Image">
+  </div>
+  <div class="mySlides">
+    <img src="{{url('/clients/assets/img/B11.jpg')}}" style="margin-top: 10px" class="img-thumbnail" alt="Product Image">
+  </div>
+  <div class="mySlides">
+    <img src="{{url('/clients/assets/img/B12.jpg')}}" style="margin-top: 10px" class="img-thumbnail" alt="Product Image">
   </div>
 
   <!-- Next and previous buttons -->
@@ -318,22 +337,43 @@
   <!-- Thumbnail images -->
   <div class="row">
     <div class="column">
-      <img class="demo cursor" src="{{url('/clients/assets/img/B0.jpg')}}" style="width:100%" onclick="currentSlide(1)" alt="">
+      <img class="demo cursor" src="{{url('/clients/assets/img/B0.jpg')}}" style="width:100%" onclick="currentSlide(1)" alt="1 / 13">
     </div>
     <div class="column">
-      <img class="demo cursor" src="{{url('/clients/assets/img/B1.jpg')}}" style="width:100%" onclick="currentSlide(2)" alt="">
+      <img class="demo cursor" src="{{url('/clients/assets/img/B1.jpg')}}" style="width:100%" onclick="currentSlide(2)" alt="2 / 13">
     </div>
     <div class="column">
-      <img class="demo cursor" src="{{url('/clients/assets/img/B2.jpg')}}" style="width:100%" onclick="currentSlide(3)" alt="">
+      <img class="demo cursor" src="{{url('/clients/assets/img/B2.jpg')}}" style="width:100%" onclick="currentSlide(3)" alt="3 / 13">
     </div>
     <div class="column">
-      <img class="demo cursor" src="{{url('/clients/assets/img/B3.jpg')}}" style="width:100%" onclick="currentSlide(4)" alt="">
+      <img class="demo cursor" src="{{url('/clients/assets/img/B3.jpg')}}" style="width:100%" onclick="currentSlide(4)" alt="4 / 13">
     </div>
     <div class="column">
-      <img class="demo cursor" src="{{url('/clients/assets/img/B4.jpg')}}" style="width:100%" onclick="currentSlide(5)" alt="">
+      <img class="demo cursor" src="{{url('/clients/assets/img/B4.jpg')}}" style="width:100%" onclick="currentSlide(5)" alt="5 / 13">
     </div>
     <div class="column">
-      <img class="demo cursor" src="{{url('/clients/assets/img/B5.jpg')}}" style="width:100%" onclick="currentSlide(6)" alt="">
+      <img class="demo cursor" src="{{url('/clients/assets/img/B5.jpg')}}" style="width:100%" onclick="currentSlide(6)" alt="6 / 13">
+    </div>
+    <div class="column">
+      <img class="demo cursor" src="{{url('/clients/assets/img/B6.jpg')}}" style="width:100%" onclick="currentSlide(7)" alt="7 / 13">
+    </div>
+    <div class="column">
+      <img class="demo cursor" src="{{url('/clients/assets/img/B7.jpg')}}" style="width:100%" onclick="currentSlide(8)" alt="8 / 13">
+    </div>
+    <div class="column">
+      <img class="demo cursor" src="{{url('/clients/assets/img/B8.jpg')}}" style="width:100%" onclick="currentSlide(9)" alt="9 / 13">
+    </div>
+    <div class="column">
+      <img class="demo cursor" src="{{url('/clients/assets/img/B9.jpg')}}" style="width:100%" onclick="currentSlide(10)" alt="10 / 13">
+    </div>
+    <div class="column">
+      <img class="demo cursor" src="{{url('/clients/assets/img/B10.jpg')}}" style="width:100%" onclick="currentSlide(11)" alt="11 / 13">
+    </div>
+    <div class="column">
+      <img class="demo cursor" src="{{url('/clients/assets/img/B11.jpg')}}" style="width:100%" onclick="currentSlide(12)" alt="12 / 13">
+    </div>
+    <div class="column">
+      <img class="demo cursor" src="{{url('/clients/assets/img/B12.jpg')}}" style="width:100%" onclick="currentSlide(13)" alt="13 / 13">
     </div>
   </div>
 </div>
