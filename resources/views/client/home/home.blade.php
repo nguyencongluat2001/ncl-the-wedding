@@ -12,16 +12,17 @@
                <h2> <span style="font-family: 'Courier New', monospace;font-size: 23px;">Công Luật <i style="font-size: 12px;font-weight: 400;color: #ff7d7d;" class="fas fa-heart"></i> Kim Ngân</span></h2>
             </div> -->
             <div style="border-radius: 5px;">
-            <div class="pt-5">
+            
+              <div style="padding:20px;background: #00000061;">
+              <div class="">
                 <img src="{{url('/clients/assets/img/ring.jpg')}}" style="background: no-repeat;object-fit: scale-down !important;width: 20%;" class="img-thumbnail" alt="Product Image">
-            </div>
-              <div style="padding:20px">
+              </div>
+              <span style="font-family: 'Courier New', monospace;color: #ff4b4b;font-size: 20px;font-weight: 600;">LỄ THÀNH HÔN</span> <br>
               @if($status == 1)
                 <center>
-                  <!-- <span>
+                  <span>
                   <img src="{{url('/clients/assets/img/text-luat-white.png')}}" style="background: no-repeat;object-fit: scale-down !important;width: 40%;height: 20% !important;" class="img-thumbnail" alt="Product Image">  <img src="{{url('/clients/assets/img/text-&-white.png')}}" style="background: no-repeat;object-fit: scale-down !important;width: 5%;height: 5% !important;" class="img-thumbnail" alt="Product Image"> <img src="{{url('/clients/assets/img/text-ngan-white.png')}}" style="background: no-repeat;object-fit: scale-down !important;width: 40%;height: 20% !important;" class="img-thumbnail" alt="Product Image">
-                  </span> <br> -->
-                  <span style="font-family: 'Courier New', monospace;color: #ff4b4b;font-size: 20px;">Lễ thành hôn</span> <br>
+                  </span> <br>
                   <span style="font-family: &quot;times new roman&quot;, times, serif;color:#ffffff;font-weight: 600;">10 Giờ 30 Phút</span> <br>
                   <span style="font-family: &quot;times new roman&quot;, times, serif;color:#ffffff;font-weight: 600;"><span style="color:#ffffff">CHỦ NHẬT</span> <span style="font-size:36px;color:#ffffff">|</span> <span style="font-size:36px;color:#ff7a7a">24</span> <span style="font-size:36px;color:#ffffff">|</span> <span style="color:#ffffff;padding-right: 25px;"> 11-2024 </span></span> <br>
                   <span style="font-family: &quot;times new roman&quot;, times, serif;color:#ffffff">( Tức ngày 24 tháng 11 năm Giáp Thìn )</span> <br>
@@ -32,7 +33,6 @@
                   <span>
                   <img src="{{url('/clients/assets/img/text-luat-white.png')}}" style="background: no-repeat;object-fit: scale-down !important;width: 40%;height: 20% !important;" class="img-thumbnail" alt="Product Image">  <img src="{{url('/clients/assets/img/text-&-white.png')}}" style="background: no-repeat;object-fit: scale-down !important;width: 5%;height: 5% !important;" class="img-thumbnail" alt="Product Image"> <img src="{{url('/clients/assets/img/text-ngan-white.png')}}" style="background: no-repeat;object-fit: scale-down !important;width: 40%;height: 20% !important;" class="img-thumbnail" alt="Product Image">
                   </span> <br>
-                  <span style="font-family: 'Courier New', monospace;color: #ff4b4b;font-size: 20px;">Lễ thành hôn</span> <br>
                   <span style="font-family: &quot;times new roman&quot;, times, serif;color:#ffffff;font-weight: 600;">16 Giờ 00 Phút</span> <br>
                   <span style="font-family: &quot;times new roman&quot;, times, serif;color:#ffffff;font-weight: 600;"><span style="color:#ffffff">THỨ BẢY</span> <span style="font-size:36px;color:#ffffff">|</span> <span style="font-size:36px;color:#ff7a7a">23</span> <span style="font-size:36px;color:#ffffff">|</span> <span style="color:#ffffff;padding-right: 25px;"> 11-2024 </span></span> <br>
                   <span style="font-family: &quot;times new roman&quot;, times, serif;color:#ffffff">( Tức ngày 23 tháng 11 năm Giáp Thìn )</span> <br>
