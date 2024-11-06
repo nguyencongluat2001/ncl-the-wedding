@@ -283,7 +283,7 @@
 
         <div class="swiper-slide">
           <div class="testimonial-item">
-            <img src="{{url('/clients/assets/img/B1`.jpg')}}" style="" class="img-thumbnail" alt="Product Image">
+            <img src="{{url('/clients/assets/img/B1.jpg')}}" style="" class="img-thumbnail" alt="Product Image">
           </div>
         </div>
 
