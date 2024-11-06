@@ -282,7 +282,22 @@
       <div class="swiper-wrapper">
         <div class="swiper-slide">
           <div class="testimonial-item">
+            <img src="{{url('/clients/assets/img/B8.jpg')}}" style="" class="img-thumbnail" alt="Product Image">
+          </div>
+        </div>
+        <div class="swiper-slide">
+          <div class="testimonial-item">
             <img src="{{url('/clients/assets/img/B5.jpg')}}" style="" class="img-thumbnail" alt="Product Image">
+          </div>
+        </div>
+        <div class="swiper-slide">
+          <div class="testimonial-item">
+            <img src="{{url('/clients/assets/img/B6.jpg')}}" style="" class="img-thumbnail" alt="Product Image">
+          </div>
+        </div>
+        <div class="swiper-slide">
+          <div class="testimonial-item">
+            <img src="{{url('/clients/assets/img/B7.jpg')}}" style="" class="img-thumbnail" alt="Product Image">
           </div>
         </div>
         <div class="swiper-slide">
@@ -304,21 +319,6 @@
         <div class="swiper-slide">
           <div class="testimonial-item">
             <img src="{{url('/clients/assets/img/B4.jpg')}}" style="" class="img-thumbnail" alt="Product Image">
-          </div>
-        </div>
-        <div class="swiper-slide">
-          <div class="testimonial-item">
-            <img src="{{url('/clients/assets/img/B6.jpg')}}" style="" class="img-thumbnail" alt="Product Image">
-          </div>
-        </div>
-        <div class="swiper-slide">
-          <div class="testimonial-item">
-            <img src="{{url('/clients/assets/img/B7.jpg')}}" style="" class="img-thumbnail" alt="Product Image">
-          </div>
-        </div>
-        <div class="swiper-slide">
-          <div class="testimonial-item">
-            <img src="{{url('/clients/assets/img/B8.jpg')}}" style="" class="img-thumbnail" alt="Product Image">
           </div>
         </div>
         <div class="swiper-slide">
