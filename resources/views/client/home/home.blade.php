@@ -182,8 +182,8 @@
 <section id="testimonials" class="events section-bg">
   <div class="container" data-aos="fade-up">
 
-    <div class="section-title">
-      <h2>Abuml</h2>
+    <div class="section-title pt-5">
+      <h2>Album</h2>
     </div>
 
     <div class="testimonials-slider swiper-container" data-aos="fade-up" data-aos-delay="100">
