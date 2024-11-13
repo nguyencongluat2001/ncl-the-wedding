@@ -115,7 +115,7 @@
                   </span> <br>
                   <span style="font-family: &quot;times new roman&quot;, times, serif;color:#ffffff;font-weight: 600;">10 Giờ 30 Phút</span> <br>
                   <span style="font-family: &quot;times new roman&quot;, times, serif;color:#ffffff;font-weight: 600;"><span style="color:#ffffff">CHỦ NHẬT</span> <span style="font-size:36px;color:#ffffff">|</span> <span style="font-size:36px;color:#ff7a7a">24</span> <span style="font-size:36px;color:#ffffff">|</span> <span style="color:#ffffff;padding-right: 25px;"> 11-2024 </span></span> <br>
-                  <span style="font-family: &quot;times new roman&quot;, times, serif;color:#ffffff">( Tức ngày 24 tháng 11 năm Giáp Thìn )</span> <br>
+                  <span style="font-family: &quot;times new roman&quot;, times, serif;color:#ffffff">( Tức ngày 24 tháng 10 năm Giáp Thìn )</span> <br>
                 </center>
               @endif
               @if($status == 2)
@@ -125,7 +125,7 @@
                   </span> <br>
                   <span style="font-family: &quot;times new roman&quot;, times, serif;color:#ffffff;font-weight: 600;">16 Giờ 00 Phút</span> <br>
                   <span style="font-family: &quot;times new roman&quot;, times, serif;color:#ffffff;font-weight: 600;"><span style="color:#ffffff">THỨ BẢY</span> <span style="font-size:36px;color:#ffffff">|</span> <span style="font-size:36px;color:#ff7a7a">23</span> <span style="font-size:36px;color:#ffffff">|</span> <span style="color:#ffffff;padding-right: 25px;"> 11-2024 </span></span> <br>
-                  <span style="font-family: &quot;times new roman&quot;, times, serif;color:#ffffff">( Tức ngày 23 tháng 11 năm Giáp Thìn )</span> <br>
+                  <span style="font-family: &quot;times new roman&quot;, times, serif;color:#ffffff">( Tức ngày 23 tháng 10 năm Giáp Thìn )</span> <br>
                 </center>
               @endif
               </div>
